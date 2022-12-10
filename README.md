@@ -3,7 +3,7 @@
 
 ### Recent contributions 👷
 
-- [vvrnv/ingpoint](https://github.com/vvrnv/ingpoint) - This script lists all unique ingress host endpoints (1 day ago)
+- [vvrnv/ingpoint](https://github.com/vvrnv/ingpoint) - This script lists all unique ingress host endpoints (2 days ago)
 - [vvrnv/vvrnv.github.io](https://github.com/vvrnv/vvrnv.github.io) - :octocat: github pages blog (2 weeks ago)
 - [vvrnv/gopherlings](https://github.com/vvrnv/gopherlings) (3 weeks ago)
 - [vvrnv/go-tdd](https://github.com/vvrnv/go-tdd) - Learn Go with test-driven development (1 month ago)
@@ -19,11 +19,11 @@
 
 ### Recent stars ⭐
 
-- [boz/kail](https://github.com/boz/kail) - kubernetes log viewer (today)
-- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications &amp; troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) &amp; Observability tool (today)
-- [ycarowr/UiCard](https://github.com/ycarowr/UiCard) - Generic UI for card games like Hearthstone, Magic Arena and Slay the Spire... (1 day ago)
-- [kitabisa/teler](https://github.com/kitabisa/teler) - Real-time HTTP Intrusion Detection (2 days ago)
-- [mattn/longcat](https://github.com/mattn/longcat) - Looooooooooooooooooooooooooooooooooooooooooooooong cat (3 days ago)
+- [nat/ghtop](https://github.com/nat/ghtop) - See what&#39;s happening on GitHub in real time (also helpful if you need to use up your API quota as quickly as possible) (1 day ago)
+- [boz/kail](https://github.com/boz/kail) - kubernetes log viewer (1 day ago)
+- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications &amp; troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) &amp; Observability tool (1 day ago)
+- [ycarowr/UiCard](https://github.com/ycarowr/UiCard) - Generic UI for card games like Hearthstone, Magic Arena and Slay the Spire... (2 days ago)
+- [kitabisa/teler](https://github.com/kitabisa/teler) - Real-time HTTP Intrusion Detection (3 days ago)
 
 ### Recent pull requests 🔨
 
