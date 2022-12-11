@@ -19,11 +19,11 @@
 
 ### Recent stars ⭐
 
+- [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace.  (today)
 - [nat/ghtop](https://github.com/nat/ghtop) - See what&#39;s happening on GitHub in real time (also helpful if you need to use up your API quota as quickly as possible) (2 days ago)
 - [boz/kail](https://github.com/boz/kail) - kubernetes log viewer (2 days ago)
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications &amp; troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) &amp; Observability tool (2 days ago)
 - [ycarowr/UiCard](https://github.com/ycarowr/UiCard) - Generic UI for card games like Hearthstone, Magic Arena and Slay the Spire... (3 days ago)
-- [kitabisa/teler](https://github.com/kitabisa/teler) - Real-time HTTP Intrusion Detection (4 days ago)
 
 ### Recent pull requests 🔨
 
