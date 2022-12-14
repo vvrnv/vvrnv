@@ -3,7 +3,7 @@
 
 ### Recent contributions 👷
 
-- [vvrnv/ingpoint](https://github.com/vvrnv/ingpoint) - This script lists all unique ingress host endpoints (5 days ago)
+- [vvrnv/ingpoint](https://github.com/vvrnv/ingpoint) - This script lists all unique ingress host endpoints (6 days ago)
 - [vvrnv/vvrnv.github.io](https://github.com/vvrnv/vvrnv.github.io) - :octocat: github pages blog (2 weeks ago)
 - [vvrnv/gopherlings](https://github.com/vvrnv/gopherlings) (1 month ago)
 - [vvrnv/go-tdd](https://github.com/vvrnv/go-tdd) - Learn Go with test-driven development (1 month ago)
@@ -19,11 +19,11 @@
 
 ### Recent stars ⭐
 
-- [kubernetes/client-go](https://github.com/kubernetes/client-go) - Go client for Kubernetes. (2 days ago)
-- [iximiuz/client-go-examples](https://github.com/iximiuz/client-go-examples) - Collection of mini-programs demonstrating Kubernetes client-go usage. (2 days ago)
-- [resmoio/kubernetes-event-exporter](https://github.com/resmoio/kubernetes-event-exporter) - Export Kubernetes events to multiple destinations with routing and filtering (2 days ago)
-- [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace.  (2 days ago)
-- [nat/ghtop](https://github.com/nat/ghtop) - See what&#39;s happening on GitHub in real time (also helpful if you need to use up your API quota as quickly as possible) (4 days ago)
+- [kubernetes/client-go](https://github.com/kubernetes/client-go) - Go client for Kubernetes. (3 days ago)
+- [iximiuz/client-go-examples](https://github.com/iximiuz/client-go-examples) - Collection of mini-programs demonstrating Kubernetes client-go usage. (3 days ago)
+- [resmoio/kubernetes-event-exporter](https://github.com/resmoio/kubernetes-event-exporter) - Export Kubernetes events to multiple destinations with routing and filtering (3 days ago)
+- [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace.  (3 days ago)
+- [nat/ghtop](https://github.com/nat/ghtop) - See what&#39;s happening on GitHub in real time (also helpful if you need to use up your API quota as quickly as possible) (5 days ago)
 
 ### Recent pull requests 🔨
 
