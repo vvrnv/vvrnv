@@ -5,7 +5,6 @@
 
 - [vvrnv/ingpoint](https://github.com/vvrnv/ingpoint) - This script lists all unique ingress host endpoints (1 week ago)
 - [vvrnv/vvrnv.github.io](https://github.com/vvrnv/vvrnv.github.io) - :octocat: github pages blog (3 weeks ago)
-- [vvrnv/gopherlings](https://github.com/vvrnv/gopherlings) (1 month ago)
 - [vvrnv/go-tdd](https://github.com/vvrnv/go-tdd) - Learn Go with test-driven development (1 month ago)
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules (1 month ago)
 
@@ -13,17 +12,16 @@
 
 - [vvrnv/vvrnv.github.io](https://github.com/vvrnv/vvrnv.github.io) - :octocat: github pages blog
 - [vvrnv/ingpoint](https://github.com/vvrnv/ingpoint) - This script lists all unique ingress host endpoints
-- [vvrnv/gopherlings](https://github.com/vvrnv/gopherlings)
 - [vvrnv/go-tdd](https://github.com/vvrnv/go-tdd) - Learn Go with test-driven development
-- [vvrnv/booking-app](https://github.com/vvrnv/booking-app) - an example of a booking application that contains basic go syntax
+- [vvrnv/kube-ns-cleaner](https://github.com/vvrnv/kube-ns-cleaner) - automatic deletion kubernetes namespaces by schedule
 
 ### Recent stars ⭐
 
-- [ShoshinNikita/habrahabr-bot-go](https://github.com/ShoshinNikita/habrahabr-bot-go) - Бот для Telegram, отправляющий новые статьи с сайта Habrahabr.ru https://t.me/unofficial_habr_bot (2 days ago)
-- [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go. (2 days ago)
-- [go-telegram-bot-api/telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api) - Golang bindings for the Telegram Bot API (2 days ago)
-- [kubernetes/client-go](https://github.com/kubernetes/client-go) - Go client for Kubernetes. (5 days ago)
-- [iximiuz/client-go-examples](https://github.com/iximiuz/client-go-examples) - Collection of mini-programs demonstrating Kubernetes client-go usage. (5 days ago)
+- [ShoshinNikita/habrahabr-bot-go](https://github.com/ShoshinNikita/habrahabr-bot-go) - Бот для Telegram, отправляющий новые статьи с сайта Habrahabr.ru https://t.me/unofficial_habr_bot (3 days ago)
+- [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go. (3 days ago)
+- [go-telegram-bot-api/telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api) - Golang bindings for the Telegram Bot API (3 days ago)
+- [kubernetes/client-go](https://github.com/kubernetes/client-go) - Go client for Kubernetes. (6 days ago)
+- [iximiuz/client-go-examples](https://github.com/iximiuz/client-go-examples) - Collection of mini-programs demonstrating Kubernetes client-go usage. (6 days ago)
 
 ### Recent pull requests 🔨
 
