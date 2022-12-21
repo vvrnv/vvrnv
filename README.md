@@ -17,11 +17,11 @@
 
 ### Recent stars ⭐
 
-- [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon (1 day ago)
-- [grafana-operator/grafana-operator](https://github.com/grafana-operator/grafana-operator) - An operator for Grafana that installs and manages Grafana instances, Dashboards and Datasources through Kubernetes/OpenShift CRs (1 day ago)
-- [ShoshinNikita/habrahabr-bot-go](https://github.com/ShoshinNikita/habrahabr-bot-go) - Бот для Telegram, отправляющий новые статьи с сайта Habrahabr.ru https://t.me/unofficial_habr_bot (6 days ago)
-- [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go. (6 days ago)
-- [go-telegram-bot-api/telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api) - Golang bindings for the Telegram Bot API (6 days ago)
+- [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon (2 days ago)
+- [grafana-operator/grafana-operator](https://github.com/grafana-operator/grafana-operator) - An operator for Grafana that installs and manages Grafana instances, Dashboards and Datasources through Kubernetes/OpenShift CRs (2 days ago)
+- [ShoshinNikita/habrahabr-bot-go](https://github.com/ShoshinNikita/habrahabr-bot-go) - Бот для Telegram, отправляющий новые статьи с сайта Habrahabr.ru https://t.me/unofficial_habr_bot (1 week ago)
+- [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go. (1 week ago)
+- [go-telegram-bot-api/telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api) - Golang bindings for the Telegram Bot API (1 week ago)
 
 ### Recent pull requests 🔨
 
