@@ -3,8 +3,8 @@
 
 ### Recent contributions 👷
 
-- [vvrnv/ingpoint](https://github.com/vvrnv/ingpoint) - This script lists all unique ingress host endpoints (1 week ago)
-- [vvrnv/vvrnv.github.io](https://github.com/vvrnv/vvrnv.github.io) - :octocat: github pages blog (3 weeks ago)
+- [vvrnv/ingpoint](https://github.com/vvrnv/ingpoint) - This script lists all unique ingress host endpoints (2 weeks ago)
+- [vvrnv/vvrnv.github.io](https://github.com/vvrnv/vvrnv.github.io) - :octocat: github pages blog (4 weeks ago)
 - [vvrnv/go-tdd](https://github.com/vvrnv/go-tdd) - Learn Go with test-driven development (1 month ago)
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules (1 month ago)
 
@@ -17,8 +17,8 @@
 
 ### Recent stars ⭐
 
-- [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon (2 days ago)
-- [grafana-operator/grafana-operator](https://github.com/grafana-operator/grafana-operator) - An operator for Grafana that installs and manages Grafana instances, Dashboards and Datasources through Kubernetes/OpenShift CRs (2 days ago)
+- [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon (3 days ago)
+- [grafana-operator/grafana-operator](https://github.com/grafana-operator/grafana-operator) - An operator for Grafana that installs and manages Grafana instances, Dashboards and Datasources through Kubernetes/OpenShift CRs (3 days ago)
 - [ShoshinNikita/habrahabr-bot-go](https://github.com/ShoshinNikita/habrahabr-bot-go) - Бот для Telegram, отправляющий новые статьи с сайта Habrahabr.ru https://t.me/unofficial_habr_bot (1 week ago)
 - [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go. (1 week ago)
 - [go-telegram-bot-api/telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api) - Golang bindings for the Telegram Bot API (1 week ago)
