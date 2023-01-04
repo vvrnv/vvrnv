@@ -3,23 +3,24 @@
 
 ### Recent contributions 👷
 
+- [vvrnv/gossl](https://github.com/vvrnv/gossl) - simple CLI app for checking SSL certificates (1 day ago)
+- [vvrnv/homebrew-tap](https://github.com/vvrnv/homebrew-tap) (1 day ago)
 - [vvrnv/ingpoint](https://github.com/vvrnv/ingpoint) - This script lists all unique ingress host endpoints (3 weeks ago)
 - [vvrnv/vvrnv.github.io](https://github.com/vvrnv/vvrnv.github.io) - :octocat: github pages blog (1 month ago)
 - [vvrnv/go-tdd](https://github.com/vvrnv/go-tdd) - Learn Go with test-driven development (1 month ago)
-- [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules (2 months ago)
 
 ### Recent projects 💩
 
-- [vvrnv/gossl](https://github.com/vvrnv/gossl)
+- [vvrnv/homebrew-tap](https://github.com/vvrnv/homebrew-tap)
+- [vvrnv/gossl](https://github.com/vvrnv/gossl) - simple CLI app for checking SSL certificates
 - [vvrnv/vvrnv.github.io](https://github.com/vvrnv/vvrnv.github.io) - :octocat: github pages blog
 - [vvrnv/ingpoint](https://github.com/vvrnv/ingpoint) - This script lists all unique ingress host endpoints
 - [vvrnv/go-tdd](https://github.com/vvrnv/go-tdd) - Learn Go with test-driven development
-- [vvrnv/kube-ns-cleaner](https://github.com/vvrnv/kube-ns-cleaner) - automatic deletion kubernetes namespaces by schedule
 
 ### Recent stars ⭐
 
-- [go-echarts/go-echarts](https://github.com/go-echarts/go-echarts) - 🎨 The adorable charts library for Golang (2 days ago)
-- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A prompt theme engine for any shell. (5 days ago)
+- [go-echarts/go-echarts](https://github.com/go-echarts/go-echarts) - 🎨 The adorable charts library for Golang (3 days ago)
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A prompt theme engine for any shell. (6 days ago)
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display&#39;s brightness &amp; volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. (1 week ago)
 - [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons (1 week ago)
 - [igorkulman/ChangeMenuBarColor](https://github.com/igorkulman/ChangeMenuBarColor) - Simple utility to change macOS Big Sur and Monterey menu bar color by appending a solid color or gradient rectangle to a wallpaper image (1 week ago)
