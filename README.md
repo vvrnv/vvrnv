@@ -3,9 +3,9 @@
 
 ### Recent contributions 👷
 
-- [vvrnv/gossl](https://github.com/vvrnv/gossl) - simple CLI app for checking SSL certificates (today)
-- [vvrnv/homebrew-tap](https://github.com/vvrnv/homebrew-tap) - homebrew tap repo for my projects (5 days ago)
-- [vvrnv/dotfiles](https://github.com/vvrnv/dotfiles) - personal dotfiles managed by chezmoi (5 days ago)
+- [vvrnv/gossl](https://github.com/vvrnv/gossl) - simple CLI app for checking SSL certificates (1 day ago)
+- [vvrnv/homebrew-tap](https://github.com/vvrnv/homebrew-tap) - homebrew tap repo for my projects (6 days ago)
+- [vvrnv/dotfiles](https://github.com/vvrnv/dotfiles) - personal dotfiles managed by chezmoi (6 days ago)
 - [vvrnv/ingpoint](https://github.com/vvrnv/ingpoint) - This script lists all unique ingress host endpoints (1 month ago)
 - [vvrnv/vvrnv.github.io](https://github.com/vvrnv/vvrnv.github.io) - :octocat: github pages blog (1 month ago)
 
@@ -19,9 +19,9 @@
 
 ### Recent stars ⭐
 
-- [vladimirvivien/ktop](https://github.com/vladimirvivien/ktop) - A top-like tool for your Kubernetes clusters (today)
-- [irevenko/tsukae](https://github.com/irevenko/tsukae) - 🐚📊 Show off your most used shell commands (4 days ago)
-- [adriannovegil/awesome-observability](https://github.com/adriannovegil/awesome-observability) - Awesome observability page (5 days ago)
+- [vladimirvivien/ktop](https://github.com/vladimirvivien/ktop) - A top-like tool for your Kubernetes clusters (1 day ago)
+- [irevenko/tsukae](https://github.com/irevenko/tsukae) - 🐚📊 Show off your most used shell commands (5 days ago)
+- [adriannovegil/awesome-observability](https://github.com/adriannovegil/awesome-observability) - Awesome observability page (6 days ago)
 - [go-echarts/go-echarts](https://github.com/go-echarts/go-echarts) - 🎨 The adorable charts library for Golang (1 week ago)
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A prompt theme engine for any shell. (1 week ago)
 
