@@ -19,11 +19,11 @@
 
 ### Recent stars ⭐
 
-- [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps (2 days ago)
-- [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources. (3 days ago)
-- [prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter) - Blackbox prober exporter (3 days ago)
-- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (4 days ago)
-- [KiBk/canyonNotify](https://github.com/KiBk/canyonNotify) - Notify me when canyon bike is available to order (4 days ago)
+- [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps (3 days ago)
+- [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources. (4 days ago)
+- [prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter) - Blackbox prober exporter (4 days ago)
+- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (5 days ago)
+- [KiBk/canyonNotify](https://github.com/KiBk/canyonNotify) - Notify me when canyon bike is available to order (5 days ago)
 
 ### Recent pull requests 🔨
 
