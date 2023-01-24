@@ -3,7 +3,7 @@
 
 ### Recent contributions 👷
 
-- [vvrnv/gossl](https://github.com/vvrnv/gossl) - simple CLI app for checking SSL certificates (1 day ago)
+- [vvrnv/gossl](https://github.com/vvrnv/gossl) - simple CLI app for checking SSL certificates (today)
 - [vvrnv/homebrew-tap](https://github.com/vvrnv/homebrew-tap) - homebrew tap repo for my projects (2 weeks ago)
 - [vvrnv/dotfiles](https://github.com/vvrnv/dotfiles) - personal dotfiles managed by chezmoi (2 weeks ago)
 - [vvrnv/ingpoint](https://github.com/vvrnv/ingpoint) - This script lists all unique ingress host endpoints (1 month ago)
