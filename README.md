@@ -19,11 +19,11 @@
 
 ### Recent stars ⭐
 
-- [marstid/go-SANtricity](https://github.com/marstid/go-SANtricity) - golang module for Netapp E-Series (SANtricity) Rest API (4 days ago)
-- [FairwindsOps/pluto](https://github.com/FairwindsOps/pluto) - A cli tool to help discover deprecated apiVersions in Kubernetes (4 days ago)
-- [wencaiwulue/kubevpn](https://github.com/wencaiwulue/kubevpn) - KubeVPN, A vpn tunnel tools which can connect to kubernetes cluster network, you can access remote kubernetes cluster network, remote kubernetes cluster service can also access your local service. (6 days ago)
+- [marstid/go-SANtricity](https://github.com/marstid/go-SANtricity) - golang module for Netapp E-Series (SANtricity) Rest API (5 days ago)
+- [FairwindsOps/pluto](https://github.com/FairwindsOps/pluto) - A cli tool to help discover deprecated apiVersions in Kubernetes (5 days ago)
+- [wencaiwulue/kubevpn](https://github.com/wencaiwulue/kubevpn) - KubeVPN, A vpn tunnel tools which can connect to kubernetes cluster network, you can access remote kubernetes cluster network, remote kubernetes cluster service can also access your local service. (1 week ago)
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go. (1 week ago)
-- [WeeJeWel/wg-easy](https://github.com/WeeJeWel/wg-easy) - The easiest way to run WireGuard VPN &#43; Web-based Admin UI. (1 week ago)
+- [WeeJeWel/wg-easy](https://github.com/WeeJeWel/wg-easy) - The easiest way to run WireGuard VPN &#43; Web-based Admin UI. (2 weeks ago)
 
 ### Recent pull requests 🔨
 
