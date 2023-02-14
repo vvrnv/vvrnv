@@ -4,7 +4,7 @@
 ### Recent contributions 👷
 
 - [vvrnv/vvrnv.github.io](https://github.com/vvrnv/vvrnv.github.io) - :octocat: github pages blog (2 weeks ago)
-- [vvrnv/gossl](https://github.com/vvrnv/gossl) - simple CLI app for checking SSL certificates (2 weeks ago)
+- [vvrnv/gossl](https://github.com/vvrnv/gossl) - simple CLI app for checking SSL certificates (3 weeks ago)
 - [vvrnv/homebrew-tap](https://github.com/vvrnv/homebrew-tap) - homebrew tap repo for my projects (1 month ago)
 - [vvrnv/dotfiles](https://github.com/vvrnv/dotfiles) - personal dotfiles managed by chezmoi (1 month ago)
 - [vvrnv/ingpoint](https://github.com/vvrnv/ingpoint) - This script lists all unique ingress host endpoints (2 months ago)
@@ -19,11 +19,11 @@
 
 ### Recent stars ⭐
 
-- [marstid/go-SANtricity](https://github.com/marstid/go-SANtricity) - golang module for Netapp E-Series (SANtricity) Rest API (5 days ago)
-- [FairwindsOps/pluto](https://github.com/FairwindsOps/pluto) - A cli tool to help discover deprecated apiVersions in Kubernetes (5 days ago)
+- [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality. (1 day ago)
+- [marstid/go-SANtricity](https://github.com/marstid/go-SANtricity) - golang module for Netapp E-Series (SANtricity) Rest API (6 days ago)
+- [FairwindsOps/pluto](https://github.com/FairwindsOps/pluto) - A cli tool to help discover deprecated apiVersions in Kubernetes (6 days ago)
 - [wencaiwulue/kubevpn](https://github.com/wencaiwulue/kubevpn) - KubeVPN, A vpn tunnel tools which can connect to kubernetes cluster network, you can access remote kubernetes cluster network, remote kubernetes cluster service can also access your local service. (1 week ago)
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go. (1 week ago)
-- [WeeJeWel/wg-easy](https://github.com/WeeJeWel/wg-easy) - The easiest way to run WireGuard VPN &#43; Web-based Admin UI. (2 weeks ago)
 
 ### Recent pull requests 🔨
 
