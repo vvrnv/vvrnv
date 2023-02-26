@@ -19,11 +19,11 @@
 
 ### Recent stars ⭐
 
+- [hairyhenderson/gomplate](https://github.com/hairyhenderson/gomplate) - A flexible commandline tool for template rendering. Supports lots of local and remote datasources. (today)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 days ago)
 - [groundcover-com/caretta](https://github.com/groundcover-com/caretta) - Instant K8s service dependency map, right to your Grafana. (1 week ago)
 - [sveinbjornt/Sloth](https://github.com/sveinbjornt/Sloth) - Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof. (1 week ago)
 - [Masterminds/semver](https://github.com/Masterminds/semver) - Work with Semantic Versions in Go (1 week ago)
-- [calvin-puram/awesome-kubernetes-operator-resources](https://github.com/calvin-puram/awesome-kubernetes-operator-resources) - A curated list of awesome resources: articles, books and videos about Kubernetes Operators. (1 week ago)
 
 ### Recent pull requests 🔨
 
