@@ -19,9 +19,9 @@
 
 ### Recent stars ⭐
 
-- [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool (1 day ago)
-- [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity. (3 days ago)
-- [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go. (3 days ago)
+- [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool (2 days ago)
+- [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity. (4 days ago)
+- [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go. (4 days ago)
 - [xanzy/go-gitlab](https://github.com/xanzy/go-gitlab) - GitLab Go SDK (1 week ago)
 - [hairyhenderson/gomplate](https://github.com/hairyhenderson/gomplate) - A flexible commandline tool for template rendering. Supports lots of local and remote datasources. (1 week ago)
 
