@@ -3,7 +3,7 @@
 <p align="left">
   <a href="https://vvrnv.dev"><img width="50mm" height="30mm" src="./static/wheelchair-move.svg"></a>
   <a href="https://www.linkedin.com/in/valery-voronov"><img width="50mm" height="30mm" src="./static/linkedin.svg"></a>
-  <a href="https://t.me/vvoronov"><img width="50mm" height="30mm" src="../static/telegram.svg"></a>
+  <a href="https://t.me/vvoronov"><img width="50mm" height="30mm" src="./static/telegram.svg"></a>
   <a href="https://www.last.fm/user/valera_88"><img width="50mm" height="30mm" src="./static/lastfm.svg"></a>
   <a href="https://www.strava.com/athletes/72534161"><img width="50mm" height="30mm" src="./static/strava.svg"></a>
 </p>
