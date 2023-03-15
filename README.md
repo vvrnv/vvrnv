@@ -11,9 +11,9 @@
 ### Recent contributions 👷
 
 
-- [vvrnv/gossl](https://github.com/vvrnv/gossl) - Simple CLI app for checking SSL certificates written with Go (1 day ago)
-- [vvrnv/homebrew-tap](https://github.com/vvrnv/homebrew-tap) - homebrew tap repo for my projects (1 day ago)
-- [vvrnv/vvrnv.github.io](https://github.com/vvrnv/vvrnv.github.io) - :octocat: github pages blog (4 days ago)
+- [vvrnv/gossl](https://github.com/vvrnv/gossl) - Simple CLI app for checking SSL certificates written with Go (2 days ago)
+- [vvrnv/homebrew-tap](https://github.com/vvrnv/homebrew-tap) - homebrew tap repo for my projects (2 days ago)
+- [vvrnv/vvrnv.github.io](https://github.com/vvrnv/vvrnv.github.io) - :octocat: github pages blog (5 days ago)
 - [vvrnv/dotfiles](https://github.com/vvrnv/dotfiles) - personal dotfiles managed by chezmoi (2 months ago)
 - [vvrnv/ingpoint](https://github.com/vvrnv/ingpoint) - This script lists all unique ingress host endpoints (3 months ago)
 
@@ -38,7 +38,7 @@
 ### Recent pull requests 🔨
 
 
-- [Hugo coder strava icon](https://github.com/vvrnv/vvrnv.github.io/pull/1) on [vvrnv/vvrnv.github.io](https://github.com/vvrnv/vvrnv.github.io) (5 days ago)
+- [Hugo coder strava icon](https://github.com/vvrnv/vvrnv.github.io/pull/1) on [vvrnv/vvrnv.github.io](https://github.com/vvrnv/vvrnv.github.io) (6 days ago)
 - [Fix bug report template](https://github.com/ONLYOFFICE/DocumentServer/pull/2120) on [ONLYOFFICE/DocumentServer](https://github.com/ONLYOFFICE/DocumentServer) (3 weeks ago)
 - [fix: added NodeNetworkUnavailable alerts, rm unused OOD alert](https://github.com/samber/awesome-prometheus-alerts/pull/318) on [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) (4 months ago)
 
