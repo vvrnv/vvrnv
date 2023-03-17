@@ -29,11 +29,11 @@
 ### Recent stars ⭐
 
 
+- [jedib0t/go-pretty](https://github.com/jedib0t/go-pretty) - Table-writer and more in golang! (today)
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook&#39;s LLaMA model in C/C&#43;&#43; (2 days ago)
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool (1 week ago)
 - [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity. (1 week ago)
 - [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go. (1 week ago)
-- [xanzy/go-gitlab](https://github.com/xanzy/go-gitlab) - GitLab Go SDK (2 weeks ago)
 
 ### Recent pull requests 🔨
 
