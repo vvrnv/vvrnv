@@ -11,7 +11,7 @@
 ### Recent contributions 👷
 
 
-- [vvrnv/gossl](https://github.com/vvrnv/gossl) - Simple CLI app for checking SSL certificates written with Go (6 days ago)
+- [vvrnv/gossl](https://github.com/vvrnv/gossl) - Simple CLI app for checking SSL certificates written with Go (1 week ago)
 - [vvrnv/homebrew-tap](https://github.com/vvrnv/homebrew-tap) - homebrew tap repo for my projects (1 week ago)
 - [vvrnv/vvrnv.github.io](https://github.com/vvrnv/vvrnv.github.io) - :octocat: github pages blog (1 week ago)
 - [vvrnv/dotfiles](https://github.com/vvrnv/dotfiles) - personal dotfiles managed by chezmoi (2 months ago)
@@ -29,10 +29,10 @@
 ### Recent stars ⭐
 
 
-- [firecow/gitlab-ci-local](https://github.com/firecow/gitlab-ci-local) - Tired of pushing to test your .gitlab-ci.yml? (2 days ago)
-- [sosedoff/pgweb](https://github.com/sosedoff/pgweb) - Cross-platform client for PostgreSQL databases (3 days ago)
-- [jedib0t/go-pretty](https://github.com/jedib0t/go-pretty) - Table-writer and more in golang! (4 days ago)
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook&#39;s LLaMA model in C/C&#43;&#43; (6 days ago)
+- [firecow/gitlab-ci-local](https://github.com/firecow/gitlab-ci-local) - Tired of pushing to test your .gitlab-ci.yml? (3 days ago)
+- [sosedoff/pgweb](https://github.com/sosedoff/pgweb) - Cross-platform client for PostgreSQL databases (4 days ago)
+- [jedib0t/go-pretty](https://github.com/jedib0t/go-pretty) - Table-writer and more in golang! (5 days ago)
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook&#39;s LLaMA model in C/C&#43;&#43; (1 week ago)
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool (2 weeks ago)
 
 ### Recent pull requests 🔨
