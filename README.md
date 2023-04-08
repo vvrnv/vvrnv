@@ -11,8 +11,8 @@
 ### Recent contributions 👷
 
 
-- [vvrnv/gossl](https://github.com/vvrnv/gossl) - Simple CLI app for checking SSL certificates written with Go (5 days ago)
-- [vvrnv/homebrew-tap](https://github.com/vvrnv/homebrew-tap) - homebrew tap repo for my projects (5 days ago)
+- [vvrnv/gossl](https://github.com/vvrnv/gossl) - Simple CLI app for checking SSL certificates written with Go (6 days ago)
+- [vvrnv/homebrew-tap](https://github.com/vvrnv/homebrew-tap) - homebrew tap repo for my projects (6 days ago)
 - [vvrnv/vvrnv.github.io](https://github.com/vvrnv/vvrnv.github.io) - :octocat: github pages blog (4 weeks ago)
 - [vvrnv/dotfiles](https://github.com/vvrnv/dotfiles) - personal dotfiles managed by chezmoi (3 months ago)
 - [vvrnv/ingpoint](https://github.com/vvrnv/ingpoint) - This script lists all unique ingress host endpoints (4 months ago)
@@ -29,16 +29,16 @@
 ### Recent stars ⭐
 
 
-- [dodopizza/kubectl-shovel](https://github.com/dodopizza/kubectl-shovel) - kubectl plugin for gathering diagnostics from running in k8s dotnet applications (today)
-- [benthosdev/benthos](https://github.com/benthosdev/benthos) - Fancy stream processing made operationally mundane (1 day ago)
-- [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter (6 days ago)
+- [dodopizza/kubectl-shovel](https://github.com/dodopizza/kubectl-shovel) - kubectl plugin for gathering diagnostics from running in k8s dotnet applications (1 day ago)
+- [benthosdev/benthos](https://github.com/benthosdev/benthos) - Fancy stream processing made operationally mundane (2 days ago)
+- [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter (1 week ago)
 - [gd3kr/BlenderGPT](https://github.com/gd3kr/BlenderGPT) - Use commands in English to control Blender with OpenAI&#39;s GPT-4 (1 week ago)
 - [nsarrazin/serge](https://github.com/nsarrazin/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API. (2 weeks ago)
 
 ### Recent pull requests 🔨
 
 
-- [Hugo coder strava icon](https://github.com/vvrnv/vvrnv.github.io/pull/1) on [vvrnv/vvrnv.github.io](https://github.com/vvrnv/vvrnv.github.io) (4 weeks ago)
+- [Hugo coder strava icon](https://github.com/vvrnv/vvrnv.github.io/pull/1) on [vvrnv/vvrnv.github.io](https://github.com/vvrnv/vvrnv.github.io) (1 month ago)
 - [Fix bug report template](https://github.com/ONLYOFFICE/DocumentServer/pull/2120) on [ONLYOFFICE/DocumentServer](https://github.com/ONLYOFFICE/DocumentServer) (1 month ago)
 - [fix: added NodeNetworkUnavailable alerts, rm unused OOD alert](https://github.com/samber/awesome-prometheus-alerts/pull/318) on [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) (5 months ago)
 
