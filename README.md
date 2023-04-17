@@ -11,7 +11,7 @@
 ### Recent contributions 👷
 
 
-- [vvrnv/gossl](https://github.com/vvrnv/gossl) - Simple CLI app for checking SSL certificates written with Go (2 weeks ago)
+- [vvrnv/gossl](https://github.com/vvrnv/gossl) - Simple CLI app for checking SSL certificates written with Go (today)
 - [vvrnv/homebrew-tap](https://github.com/vvrnv/homebrew-tap) - homebrew tap repo for my projects (2 weeks ago)
 - [vvrnv/vvrnv.github.io](https://github.com/vvrnv/vvrnv.github.io) - :octocat: github pages blog (1 month ago)
 - [vvrnv/dotfiles](https://github.com/vvrnv/dotfiles) - personal dotfiles managed by chezmoi (3 months ago)
