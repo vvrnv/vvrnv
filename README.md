@@ -29,11 +29,11 @@
 ### Recent stars ⭐
 
 
+- [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications (today)
 - [mxssl/sre-interview-prep-guide](https://github.com/mxssl/sre-interview-prep-guide) - Site Reliability Engineer Interview Preparation Guide (1 week ago)
 - [dodopizza/kubectl-shovel](https://github.com/dodopizza/kubectl-shovel) - kubectl plugin for gathering diagnostics from running in k8s dotnet applications (1 week ago)
 - [benthosdev/benthos](https://github.com/benthosdev/benthos) - Fancy stream processing made operationally mundane (1 week ago)
 - [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter (2 weeks ago)
-- [gd3kr/BlenderGPT](https://github.com/gd3kr/BlenderGPT) - Use commands in English to control Blender with OpenAI&#39;s GPT-4 (3 weeks ago)
 
 ### Recent pull requests 🔨
 
