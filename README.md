@@ -29,11 +29,11 @@
 ### Recent stars ⭐
 
 
+- [haskell-beginners-2022/course-plan](https://github.com/haskell-beginners-2022/course-plan) - 📜 Haskell course info, plan, video lectures, slides (today)
 - [gotzmann/llama.go](https://github.com/gotzmann/llama.go) - llama.go is like llama.cpp in pure Golang! (2 days ago)
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications (6 days ago)
 - [mxssl/sre-interview-prep-guide](https://github.com/mxssl/sre-interview-prep-guide) - Site Reliability Engineer Interview Preparation Guide (2 weeks ago)
 - [dodopizza/kubectl-shovel](https://github.com/dodopizza/kubectl-shovel) - kubectl plugin for gathering diagnostics from running in k8s dotnet applications (2 weeks ago)
-- [benthosdev/benthos](https://github.com/benthosdev/benthos) - Fancy stream processing made operationally mundane (2 weeks ago)
 
 ### Recent pull requests 🔨
 
