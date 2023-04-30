@@ -12,7 +12,7 @@
 
 
 - [vvrnv/gossl](https://github.com/vvrnv/gossl) - Simple CLI app for checking SSL certificates written with Go (1 week ago)
-- [vvrnv/homebrew-tap](https://github.com/vvrnv/homebrew-tap) - homebrew tap repo for my projects (3 weeks ago)
+- [vvrnv/homebrew-tap](https://github.com/vvrnv/homebrew-tap) - homebrew tap repo for my projects (4 weeks ago)
 - [vvrnv/vvrnv.github.io](https://github.com/vvrnv/vvrnv.github.io) - :octocat: github pages blog (1 month ago)
 - [vvrnv/dotfiles](https://github.com/vvrnv/dotfiles) - personal dotfiles managed by chezmoi (3 months ago)
 - [vvrnv/ingpoint](https://github.com/vvrnv/ingpoint) - This script lists all unique ingress host endpoints (4 months ago)
@@ -29,8 +29,8 @@
 ### Recent stars ⭐
 
 
-- [haskell-beginners-2022/course-plan](https://github.com/haskell-beginners-2022/course-plan) - 📜 Haskell course info, plan, video lectures, slides (4 days ago)
-- [gotzmann/llama.go](https://github.com/gotzmann/llama.go) - llama.go is like llama.cpp in pure Golang! (6 days ago)
+- [haskell-beginners-2022/course-plan](https://github.com/haskell-beginners-2022/course-plan) - 📜 Haskell course info, plan, video lectures, slides (5 days ago)
+- [gotzmann/llama.go](https://github.com/gotzmann/llama.go) - llama.go is like llama.cpp in pure Golang! (1 week ago)
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications (1 week ago)
 - [mxssl/sre-interview-prep-guide](https://github.com/mxssl/sre-interview-prep-guide) - Site Reliability Engineer Interview Preparation Guide (2 weeks ago)
 - [dodopizza/kubectl-shovel](https://github.com/dodopizza/kubectl-shovel) - kubectl plugin for gathering diagnostics from running in k8s dotnet applications (3 weeks ago)
