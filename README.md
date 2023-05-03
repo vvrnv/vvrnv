@@ -29,10 +29,10 @@
 ### Recent stars ⭐
 
 
-- [turkenh/KubeContext](https://github.com/turkenh/KubeContext) - Menu Bar App for Managing Kubernetes Contexts on Mac (2 days ago)
+- [turkenh/KubeContext](https://github.com/turkenh/KubeContext) - Menu Bar App for Managing Kubernetes Contexts on Mac (3 days ago)
 - [haskell-beginners-2022/course-plan](https://github.com/haskell-beginners-2022/course-plan) - 📜 Haskell course info, plan, video lectures, slides (1 week ago)
 - [gotzmann/llama.go](https://github.com/gotzmann/llama.go) - llama.go is like llama.cpp in pure Golang! (1 week ago)
-- [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications (1 week ago)
+- [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications (2 weeks ago)
 - [mxssl/sre-interview-prep-guide](https://github.com/mxssl/sre-interview-prep-guide) - Site Reliability Engineer Interview Preparation Guide (3 weeks ago)
 
 ### Recent pull requests 🔨
