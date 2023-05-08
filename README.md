@@ -29,11 +29,11 @@
 ### Recent stars ⭐
 
 
+- [google/gops](https://github.com/google/gops) - A tool to list and diagnose Go processes currently running on your system (today)
 - [turkenh/KubeContext](https://github.com/turkenh/KubeContext) - Menu Bar App for Managing Kubernetes Contexts on Mac (1 week ago)
 - [haskell-beginners-2022/course-plan](https://github.com/haskell-beginners-2022/course-plan) - 📜 Haskell course info, plan, video lectures, slides (1 week ago)
 - [gotzmann/llama.go](https://github.com/gotzmann/llama.go) - llama.go is like llama.cpp in pure Golang! (2 weeks ago)
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications (2 weeks ago)
-- [mxssl/sre-interview-prep-guide](https://github.com/mxssl/sre-interview-prep-guide) - Site Reliability Engineer Interview Preparation Guide (3 weeks ago)
 
 ### Recent pull requests 🔨
 
