@@ -11,10 +11,10 @@
 ### Recent contributions 👷
 
 
-- [vvrnv/ingpoint](https://github.com/vvrnv/ingpoint) - This script lists all unique ingress host endpoints (5 days ago)
+- [vvrnv/ingpoint](https://github.com/vvrnv/ingpoint) - This script lists all unique ingress host endpoints (6 days ago)
 - [vvrnv/gossl](https://github.com/vvrnv/gossl) - Simple CLI app for checking SSL certificates written with Go (3 weeks ago)
 - [vvrnv/homebrew-tap](https://github.com/vvrnv/homebrew-tap) - homebrew tap repo for my projects (1 month ago)
-- [vvrnv/vvrnv.github.io](https://github.com/vvrnv/vvrnv.github.io) - :octocat: github pages blog (1 month ago)
+- [vvrnv/vvrnv.github.io](https://github.com/vvrnv/vvrnv.github.io) - :octocat: github pages blog (2 months ago)
 - [ONLYOFFICE/DocumentServer](https://github.com/ONLYOFFICE/DocumentServer) - ONLYOFFICE Docs is a free collaborative online office suite comprising viewers and editors for texts, spreadsheets and presentations, forms and PDF, fully compatible with Office Open XML formats: .docx, .xlsx, .pptx and enabling collaborative editing in real time. (2 months ago)
 
 ### Recent projects 💩
@@ -29,9 +29,9 @@
 ### Recent stars ⭐
 
 
-- [google/gops](https://github.com/google/gops) - A tool to list and diagnose Go processes currently running on your system (today)
+- [google/gops](https://github.com/google/gops) - A tool to list and diagnose Go processes currently running on your system (1 day ago)
 - [turkenh/KubeContext](https://github.com/turkenh/KubeContext) - Menu Bar App for Managing Kubernetes Contexts on Mac (1 week ago)
-- [haskell-beginners-2022/course-plan](https://github.com/haskell-beginners-2022/course-plan) - 📜 Haskell course info, plan, video lectures, slides (1 week ago)
+- [haskell-beginners-2022/course-plan](https://github.com/haskell-beginners-2022/course-plan) - 📜 Haskell course info, plan, video lectures, slides (2 weeks ago)
 - [gotzmann/llama.go](https://github.com/gotzmann/llama.go) - llama.go is like llama.cpp in pure Golang! (2 weeks ago)
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications (2 weeks ago)
 
