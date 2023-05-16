@@ -31,7 +31,7 @@
 
 - [google/gops](https://github.com/google/gops) - A tool to list and diagnose Go processes currently running on your system (1 week ago)
 - [turkenh/KubeContext](https://github.com/turkenh/KubeContext) - Menu Bar App for Managing Kubernetes Contexts on Mac (2 weeks ago)
-- [haskell-beginners-2022/course-plan](https://github.com/haskell-beginners-2022/course-plan) - 📜 Haskell course info, plan, video lectures, slides (2 weeks ago)
+- [haskell-beginners-2022/course-plan](https://github.com/haskell-beginners-2022/course-plan) - 📜 Haskell course info, plan, video lectures, slides (3 weeks ago)
 - [gotzmann/llama.go](https://github.com/gotzmann/llama.go) - llama.go is like llama.cpp in pure Golang! (3 weeks ago)
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications (3 weeks ago)
 
