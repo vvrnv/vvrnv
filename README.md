@@ -30,7 +30,7 @@
 
 
 - [moul/assh](https://github.com/moul/assh) - :computer: make your ssh client smarter (1 week ago)
-- [google/gops](https://github.com/google/gops) - A tool to list and diagnose Go processes currently running on your system (2 weeks ago)
+- [google/gops](https://github.com/google/gops) - A tool to list and diagnose Go processes currently running on your system (3 weeks ago)
 - [turkenh/KubeContext](https://github.com/turkenh/KubeContext) - Menu Bar App for Managing Kubernetes Contexts on Mac (4 weeks ago)
 - [haskell-beginners-2022/course-plan](https://github.com/haskell-beginners-2022/course-plan) - 📜 Haskell course info, plan, video lectures, slides (1 month ago)
 - [gotzmann/llama.go](https://github.com/gotzmann/llama.go) - llama.go is like llama.cpp in pure Golang! (1 month ago)
@@ -40,7 +40,7 @@
 
 - [Hugo coder strava icon](https://github.com/vvrnv/vvrnv.github.io/pull/1) on [vvrnv/vvrnv.github.io](https://github.com/vvrnv/vvrnv.github.io) (2 months ago)
 - [Fix bug report template](https://github.com/ONLYOFFICE/DocumentServer/pull/2120) on [ONLYOFFICE/DocumentServer](https://github.com/ONLYOFFICE/DocumentServer) (3 months ago)
-- [fix: added NodeNetworkUnavailable alerts, rm unused OOD alert](https://github.com/samber/awesome-prometheus-alerts/pull/318) on [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) (6 months ago)
+- [fix: added NodeNetworkUnavailable alerts, rm unused OOD alert](https://github.com/samber/awesome-prometheus-alerts/pull/318) on [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) (7 months ago)
 
 ### GitHub stats 📈
 
