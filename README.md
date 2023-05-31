@@ -11,7 +11,7 @@
 ### Recent contributions 👷
 
 
-- [vvrnv/ingpoint](https://github.com/vvrnv/ingpoint) - This script lists all unique ingress host endpoints (1 week ago)
+- [vvrnv/ingpoint](https://github.com/vvrnv/ingpoint) - This script lists all unique ingress host endpoints (2 weeks ago)
 - [vvrnv/gossl](https://github.com/vvrnv/gossl) - Simple CLI app for checking SSL certificates written with Go (1 month ago)
 - [vvrnv/homebrew-tap](https://github.com/vvrnv/homebrew-tap) - homebrew tap repo for my projects (1 month ago)
 - [vvrnv/vvrnv.github.io](https://github.com/vvrnv/vvrnv.github.io) - :octocat: github pages blog (2 months ago)
@@ -29,11 +29,11 @@
 ### Recent stars ⭐
 
 
+- [dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin) - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements. (1 day ago)
 - [moul/assh](https://github.com/moul/assh) - :computer: make your ssh client smarter (1 week ago)
 - [google/gops](https://github.com/google/gops) - A tool to list and diagnose Go processes currently running on your system (3 weeks ago)
 - [turkenh/KubeContext](https://github.com/turkenh/KubeContext) - Menu Bar App for Managing Kubernetes Contexts on Mac (1 month ago)
 - [haskell-beginners-2022/course-plan](https://github.com/haskell-beginners-2022/course-plan) - 📜 Haskell course info, plan, video lectures, slides (1 month ago)
-- [gotzmann/llama.go](https://github.com/gotzmann/llama.go) - llama.go is like llama.cpp in pure Golang! (1 month ago)
 
 ### Recent pull requests 🔨
 
