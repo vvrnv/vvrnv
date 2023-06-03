@@ -29,8 +29,8 @@
 ### Recent stars ⭐
 
 
-- [s0md3v/roop](https://github.com/s0md3v/roop) - one-click deepfake (face swap) (1 day ago)
-- [dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin) - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements. (3 days ago)
+- [s0md3v/roop](https://github.com/s0md3v/roop) - one-click deepfake (face swap) (2 days ago)
+- [dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin) - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements. (4 days ago)
 - [moul/assh](https://github.com/moul/assh) - :computer: make your ssh client smarter (2 weeks ago)
 - [google/gops](https://github.com/google/gops) - A tool to list and diagnose Go processes currently running on your system (3 weeks ago)
 - [turkenh/KubeContext](https://github.com/turkenh/KubeContext) - Menu Bar App for Managing Kubernetes Contexts on Mac (1 month ago)
