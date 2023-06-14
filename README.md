@@ -11,7 +11,7 @@
 ### Recent contributions 👷
 
 
-- [vvrnv/ingpoint](https://github.com/vvrnv/ingpoint) - This script lists all unique ingress host endpoints (3 weeks ago)
+- [vvrnv/ingpoint](https://github.com/vvrnv/ingpoint) - This script lists all unique ingress host endpoints (4 weeks ago)
 - [vvrnv/gossl](https://github.com/vvrnv/gossl) - Simple CLI app for checking SSL certificates written with Go (1 month ago)
 - [vvrnv/homebrew-tap](https://github.com/vvrnv/homebrew-tap) - homebrew tap repo for my projects (2 months ago)
 - [vvrnv/vvrnv.github.io](https://github.com/vvrnv/vvrnv.github.io) - :octocat: github pages blog (3 months ago)
@@ -29,7 +29,7 @@
 ### Recent stars ⭐
 
 
-- [carlmjohnson/requests](https://github.com/carlmjohnson/requests) - HTTP requests for Gophers (today)
+- [carlmjohnson/requests](https://github.com/carlmjohnson/requests) - HTTP requests for Gophers (1 day ago)
 - [s0md3v/roop](https://github.com/s0md3v/roop) - one-click deepfake (face swap) (1 week ago)
 - [dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin) - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements. (2 weeks ago)
 - [moul/assh](https://github.com/moul/assh) - :computer: make your ssh client smarter (3 weeks ago)
