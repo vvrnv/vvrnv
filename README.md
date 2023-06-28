@@ -29,7 +29,7 @@
 ### Recent stars ⭐
 
 
-- [cloudflare/pint](https://github.com/cloudflare/pint) - Prometheus rule linter/validator (1 day ago)
+- [cloudflare/pint](https://github.com/cloudflare/pint) - Prometheus rule linter/validator (2 days ago)
 - [carlmjohnson/requests](https://github.com/carlmjohnson/requests) - HTTP requests for Gophers (2 weeks ago)
 - [s0md3v/roop](https://github.com/s0md3v/roop) - one-click deepfake (face swap) (3 weeks ago)
 - [dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin) - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements. (4 weeks ago)
@@ -40,7 +40,7 @@
 
 - [Hugo coder strava icon](https://github.com/vvrnv/vvrnv.github.io/pull/1) on [vvrnv/vvrnv.github.io](https://github.com/vvrnv/vvrnv.github.io) (3 months ago)
 - [Fix bug report template](https://github.com/ONLYOFFICE/DocumentServer/pull/2120) on [ONLYOFFICE/DocumentServer](https://github.com/ONLYOFFICE/DocumentServer) (4 months ago)
-- [fix: added NodeNetworkUnavailable alerts, rm unused OOD alert](https://github.com/samber/awesome-prometheus-alerts/pull/318) on [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) (7 months ago)
+- [fix: added NodeNetworkUnavailable alerts, rm unused OOD alert](https://github.com/samber/awesome-prometheus-alerts/pull/318) on [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) (8 months ago)
 
 ### GitHub stats 📈
 
