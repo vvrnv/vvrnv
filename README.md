@@ -29,8 +29,8 @@
 ### Recent stars ⭐
 
 
-- [janpfeifer/gonb](https://github.com/janpfeifer/gonb) - GoNB, a Go Notebook Kernel for Jupyter (4 days ago)
-- [cloudflare/pint](https://github.com/cloudflare/pint) - Prometheus rule linter/validator (6 days ago)
+- [janpfeifer/gonb](https://github.com/janpfeifer/gonb) - GoNB, a Go Notebook Kernel for Jupyter (5 days ago)
+- [cloudflare/pint](https://github.com/cloudflare/pint) - Prometheus rule linter/validator (1 week ago)
 - [carlmjohnson/requests](https://github.com/carlmjohnson/requests) - HTTP requests for Gophers (2 weeks ago)
 - [s0md3v/roop](https://github.com/s0md3v/roop) - one-click deepfake (face swap) (1 month ago)
 - [dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin) - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements. (1 month ago)
