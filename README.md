@@ -29,10 +29,10 @@
 ### Recent stars ⭐
 
 
-- [austinsonger/Incident-Playbook](https://github.com/austinsonger/Incident-Playbook) - GOAL: Incident Response Playbooks Mapped to MITRE Attack Tactics and Techniques. [Contributors Friendly] (today)
-- [janpfeifer/gonb](https://github.com/janpfeifer/gonb) - GoNB, a Go Notebook Kernel for Jupyter (5 days ago)
+- [austinsonger/Incident-Playbook](https://github.com/austinsonger/Incident-Playbook) - GOAL: Incident Response Playbooks Mapped to MITRE Attack Tactics and Techniques. [Contributors Friendly] (1 day ago)
+- [janpfeifer/gonb](https://github.com/janpfeifer/gonb) - GoNB, a Go Notebook Kernel for Jupyter (6 days ago)
 - [cloudflare/pint](https://github.com/cloudflare/pint) - Prometheus rule linter/validator (1 week ago)
-- [carlmjohnson/requests](https://github.com/carlmjohnson/requests) - HTTP requests for Gophers (2 weeks ago)
+- [carlmjohnson/requests](https://github.com/carlmjohnson/requests) - HTTP requests for Gophers (3 weeks ago)
 - [s0md3v/roop](https://github.com/s0md3v/roop) - one-click deepfake (face swap) (1 month ago)
 
 ### Recent pull requests 🔨
