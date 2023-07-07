@@ -29,7 +29,7 @@
 ### Recent stars ⭐
 
 
-- [austinsonger/Incident-Playbook](https://github.com/austinsonger/Incident-Playbook) - GOAL: Incident Response Playbooks Mapped to MITRE Attack Tactics and Techniques. [Contributors Friendly] (3 days ago)
+- [austinsonger/Incident-Playbook](https://github.com/austinsonger/Incident-Playbook) - GOAL: Incident Response Playbooks Mapped to MITRE Attack Tactics and Techniques. [Contributors Friendly] (4 days ago)
 - [janpfeifer/gonb](https://github.com/janpfeifer/gonb) - GoNB, a Go Notebook Kernel for Jupyter (1 week ago)
 - [cloudflare/pint](https://github.com/cloudflare/pint) - Prometheus rule linter/validator (1 week ago)
 - [carlmjohnson/requests](https://github.com/carlmjohnson/requests) - HTTP requests for Gophers (3 weeks ago)
@@ -38,7 +38,7 @@
 ### Recent pull requests 🔨
 
 
-- [Hugo coder strava icon](https://github.com/vvrnv/vvrnv.github.io/pull/1) on [vvrnv/vvrnv.github.io](https://github.com/vvrnv/vvrnv.github.io) (3 months ago)
+- [Hugo coder strava icon](https://github.com/vvrnv/vvrnv.github.io/pull/1) on [vvrnv/vvrnv.github.io](https://github.com/vvrnv/vvrnv.github.io) (4 months ago)
 - [Fix bug report template](https://github.com/ONLYOFFICE/DocumentServer/pull/2120) on [ONLYOFFICE/DocumentServer](https://github.com/ONLYOFFICE/DocumentServer) (4 months ago)
 - [fix: added NodeNetworkUnavailable alerts, rm unused OOD alert](https://github.com/samber/awesome-prometheus-alerts/pull/318) on [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) (8 months ago)
 
