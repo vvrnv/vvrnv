@@ -29,8 +29,8 @@
 ### Recent stars ⭐
 
 
-- [create-go-app/cli](https://github.com/create-go-app/cli) - ✨ A complete and self-contained solution for developers of any qualification to create a production-ready project with backend (Go), frontend (JavaScript, TypeScript) and deploy automation (Ansible, Docker) by running only one CLI command. (2 weeks ago)
-- [charmbracelet/pop](https://github.com/charmbracelet/pop) - Send emails from your terminal 📬 (2 weeks ago)
+- [create-go-app/cli](https://github.com/create-go-app/cli) - ✨ A complete and self-contained solution for developers of any qualification to create a production-ready project with backend (Go), frontend (JavaScript, TypeScript) and deploy automation (Ansible, Docker) by running only one CLI command. (3 weeks ago)
+- [charmbracelet/pop](https://github.com/charmbracelet/pop) - Send emails from your terminal 📬 (3 weeks ago)
 - [austinsonger/Incident-Playbook](https://github.com/austinsonger/Incident-Playbook) - GOAL: Incident Response Playbooks Mapped to MITRE Attack Tactics and Techniques. [Contributors Friendly] (1 month ago)
 - [janpfeifer/gonb](https://github.com/janpfeifer/gonb) - GoNB, a Go Notebook Kernel for Jupyter (1 month ago)
 - [cloudflare/pint](https://github.com/cloudflare/pint) - Prometheus rule linter/validator (1 month ago)
