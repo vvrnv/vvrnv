@@ -33,7 +33,7 @@
 - [charmbracelet/pop](https://github.com/charmbracelet/pop) - Send emails from your terminal 📬 (1 month ago)
 - [austinsonger/Incident-Playbook](https://github.com/austinsonger/Incident-Playbook) - GOAL: Incident Response Playbooks Mapped to MITRE Attack Tactics and Techniques. [Contributors Friendly] (1 month ago)
 - [janpfeifer/gonb](https://github.com/janpfeifer/gonb) - GoNB, a Go Notebook Kernel for Jupyter (1 month ago)
-- [cloudflare/pint](https://github.com/cloudflare/pint) - Prometheus rule linter/validator (1 month ago)
+- [cloudflare/pint](https://github.com/cloudflare/pint) - Prometheus rule linter/validator (2 months ago)
 
 ### Recent pull requests 🔨
 
