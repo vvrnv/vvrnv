@@ -29,7 +29,7 @@
 ### Recent stars ⭐
 
 
-- [leandromoreira/linux-network-performance-parameters](https://github.com/leandromoreira/linux-network-performance-parameters) - Learn where some of the network sysctl variables fit into the Linux/Kernel network flow. Translations: 🇷🇺 (2 days ago)
+- [leandromoreira/linux-network-performance-parameters](https://github.com/leandromoreira/linux-network-performance-parameters) - Learn where some of the network sysctl variables fit into the Linux/Kernel network flow. Translations: 🇷🇺 (3 days ago)
 - [spotahome/redis-operator](https://github.com/spotahome/redis-operator) - Redis Operator creates/configures/manages high availability redis with sentinel automatic failover atop Kubernetes. (1 week ago)
 - [merlinfuchs/blimp](https://github.com/merlinfuchs/blimp) - Customizable terminal UI for monitoring weather information, application status, network latency, and more (1 week ago)
 - [create-go-app/cli](https://github.com/create-go-app/cli) - ✨ A complete and self-contained solution for developers of any qualification to create a production-ready project with backend (Go), frontend (JavaScript, TypeScript) and deploy automation (Ansible, Docker) by running only one CLI command. (1 month ago)
