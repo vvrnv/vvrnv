@@ -29,11 +29,11 @@
 ### Recent stars ⭐
 
 
+- [bregman-arie/sre-checklist](https://github.com/bregman-arie/sre-checklist) - A checklist of anyone practicing Site Reliability Engineering (today)
 - [authorizerdev/authorizer](https://github.com/authorizerdev/authorizer) - Your data, your control. Fully open source, authentication and authorization. No lock-ins.  Deployment in Railway in 120 seconds || Spin a docker image as a micro-service in your infra. Built in login page and Admin panel out of the box. (4 days ago)
 - [leandromoreira/linux-network-performance-parameters](https://github.com/leandromoreira/linux-network-performance-parameters) - Learn where some of the network sysctl variables fit into the Linux/Kernel network flow. Translations: 🇷🇺 (1 week ago)
 - [spotahome/redis-operator](https://github.com/spotahome/redis-operator) - Redis Operator creates/configures/manages high availability redis with sentinel automatic failover atop Kubernetes. (2 weeks ago)
 - [merlinfuchs/blimp](https://github.com/merlinfuchs/blimp) - Customizable terminal UI for monitoring weather information, application status, network latency, and more (2 weeks ago)
-- [create-go-app/cli](https://github.com/create-go-app/cli) - ✨ A complete and self-contained solution for developers of any qualification to create a production-ready project with backend (Go), frontend (JavaScript, TypeScript) and deploy automation (Ansible, Docker) by running only one CLI command. (1 month ago)
 
 ### Recent pull requests 🔨
 
