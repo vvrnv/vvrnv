@@ -13,7 +13,7 @@
 
 - [vvrnv/gossl](https://github.com/vvrnv/gossl) - Simple CLI app for checking SSL certificates written with Go (2 weeks ago)
 - [vvrnv/ingpoint](https://github.com/vvrnv/ingpoint) - This script lists all unique ingress host endpoints (4 months ago)
-- [vvrnv/homebrew-tap](https://github.com/vvrnv/homebrew-tap) - homebrew tap repo for my projects (5 months ago)
+- [vvrnv/homebrew-tap](https://github.com/vvrnv/homebrew-tap) - homebrew tap repo for my projects (6 months ago)
 - [vvrnv/vvrnv.github.io](https://github.com/vvrnv/vvrnv.github.io) - :octocat: github pages blog (6 months ago)
 - [ONLYOFFICE/DocumentServer](https://github.com/ONLYOFFICE/DocumentServer) - ONLYOFFICE Docs is a free collaborative online office suite comprising viewers and editors for texts, spreadsheets and presentations, forms and PDF, fully compatible with Office Open XML formats: .docx, .xlsx, .pptx and enabling collaborative editing in real time. (7 months ago)
 
@@ -29,9 +29,9 @@
 ### Recent stars ⭐
 
 
-- [pwnesia/ssb](https://github.com/pwnesia/ssb) - Secure Shell Bruteforcer — A faster &amp; simpler way to bruteforce SSH server (4 days ago)
+- [pwnesia/ssb](https://github.com/pwnesia/ssb) - Secure Shell Bruteforcer — A faster &amp; simpler way to bruteforce SSH server (5 days ago)
 - [bregman-arie/sre-checklist](https://github.com/bregman-arie/sre-checklist) - A checklist of anyone practicing Site Reliability Engineering (1 week ago)
-- [authorizerdev/authorizer](https://github.com/authorizerdev/authorizer) - Your data, your control. Fully open source, authentication and authorization. No lock-ins.  Deployment in Railway in 120 seconds || Spin a docker image as a micro-service in your infra. Built in login page and Admin panel out of the box. (1 week ago)
+- [authorizerdev/authorizer](https://github.com/authorizerdev/authorizer) - Your data, your control. Fully open source, authentication and authorization. No lock-ins.  Deployment in Railway in 120 seconds || Spin a docker image as a micro-service in your infra. Built in login page and Admin panel out of the box. (2 weeks ago)
 - [leandromoreira/linux-network-performance-parameters](https://github.com/leandromoreira/linux-network-performance-parameters) - Learn where some of the network sysctl variables fit into the Linux/Kernel network flow. Translations: 🇷🇺 (3 weeks ago)
 - [spotahome/redis-operator](https://github.com/spotahome/redis-operator) - Redis Operator creates/configures/manages high availability redis with sentinel automatic failover atop Kubernetes. (3 weeks ago)
 
