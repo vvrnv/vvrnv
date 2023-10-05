@@ -29,11 +29,11 @@
 ### Recent stars ⭐
 
 
+- [AllenDang/giu](https://github.com/AllenDang/giu) - Cross platform rapid GUI framework for golang based on Dear ImGui. (today)
 - [DataDog/KubeHound](https://github.com/DataDog/KubeHound) - Kubernetes Attack Graph (1 day ago)
 - [kubernetes-sigs/etcdadm](https://github.com/kubernetes-sigs/etcdadm) (5 days ago)
 - [pwnesia/ssb](https://github.com/pwnesia/ssb) - Secure Shell Bruteforcer — A faster &amp; simpler way to bruteforce SSH server (1 week ago)
 - [bregman-arie/sre-checklist](https://github.com/bregman-arie/sre-checklist) - A checklist of anyone practicing Site Reliability Engineering (2 weeks ago)
-- [authorizerdev/authorizer](https://github.com/authorizerdev/authorizer) - Your data, your control. Fully open source, authentication and authorization. No lock-ins.  Deployment in Railway in 120 seconds || Spin a docker image as a micro-service in your infra. Built in login page and Admin panel out of the box. (2 weeks ago)
 
 ### Recent pull requests 🔨
 
