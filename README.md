@@ -29,11 +29,11 @@
 ### Recent stars ⭐
 
 
-- [AllenDang/giu](https://github.com/AllenDang/giu) - Cross platform rapid GUI framework for golang based on Dear ImGui. (4 days ago)
-- [DataDog/KubeHound](https://github.com/DataDog/KubeHound) - Kubernetes Attack Graph (5 days ago)
+- [AllenDang/giu](https://github.com/AllenDang/giu) - Cross platform rapid GUI framework for golang based on Dear ImGui. (5 days ago)
+- [DataDog/KubeHound](https://github.com/DataDog/KubeHound) - Kubernetes Attack Graph (6 days ago)
 - [kubernetes-sigs/etcdadm](https://github.com/kubernetes-sigs/etcdadm) (1 week ago)
 - [pwnesia/ssb](https://github.com/pwnesia/ssb) - Secure Shell Bruteforcer — A faster &amp; simpler way to bruteforce SSH server (2 weeks ago)
-- [bregman-arie/sre-checklist](https://github.com/bregman-arie/sre-checklist) - A checklist of anyone practicing Site Reliability Engineering (2 weeks ago)
+- [bregman-arie/sre-checklist](https://github.com/bregman-arie/sre-checklist) - A checklist of anyone practicing Site Reliability Engineering (3 weeks ago)
 
 ### Recent pull requests 🔨
 
