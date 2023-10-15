@@ -32,7 +32,7 @@
 - [AllenDang/giu](https://github.com/AllenDang/giu) - Cross platform rapid GUI framework for golang based on Dear ImGui. (1 week ago)
 - [DataDog/KubeHound](https://github.com/DataDog/KubeHound) - Kubernetes Attack Graph (1 week ago)
 - [kubernetes-sigs/etcdadm](https://github.com/kubernetes-sigs/etcdadm) (2 weeks ago)
-- [pwnesia/ssb](https://github.com/pwnesia/ssb) - Secure Shell Bruteforcer — A faster &amp; simpler way to bruteforce SSH server (2 weeks ago)
+- [pwnesia/ssb](https://github.com/pwnesia/ssb) - Secure Shell Bruteforcer — A faster &amp; simpler way to bruteforce SSH server (3 weeks ago)
 - [bregman-arie/sre-checklist](https://github.com/bregman-arie/sre-checklist) - A checklist of anyone practicing Site Reliability Engineering (3 weeks ago)
 
 ### Recent pull requests 🔨
