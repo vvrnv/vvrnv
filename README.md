@@ -29,7 +29,7 @@
 ### Recent stars ⭐
 
 
-- [spf13/afero](https://github.com/spf13/afero) - A FileSystem Abstraction System for Go (1 day ago)
+- [spf13/afero](https://github.com/spf13/afero) - A FileSystem Abstraction System for Go (2 days ago)
 - [AllenDang/giu](https://github.com/AllenDang/giu) - Cross platform rapid GUI framework for golang based on Dear ImGui. (1 week ago)
 - [DataDog/KubeHound](https://github.com/DataDog/KubeHound) - Kubernetes Attack Graph (1 week ago)
 - [kubernetes-sigs/etcdadm](https://github.com/kubernetes-sigs/etcdadm) (2 weeks ago)
