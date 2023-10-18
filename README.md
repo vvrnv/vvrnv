@@ -29,9 +29,9 @@
 ### Recent stars ⭐
 
 
-- [spf13/afero](https://github.com/spf13/afero) - A FileSystem Abstraction System for Go (2 days ago)
+- [spf13/afero](https://github.com/spf13/afero) - A FileSystem Abstraction System for Go (3 days ago)
 - [AllenDang/giu](https://github.com/AllenDang/giu) - Cross platform rapid GUI framework for golang based on Dear ImGui. (1 week ago)
-- [DataDog/KubeHound](https://github.com/DataDog/KubeHound) - Kubernetes Attack Graph (1 week ago)
+- [DataDog/KubeHound](https://github.com/DataDog/KubeHound) - Kubernetes Attack Graph (2 weeks ago)
 - [kubernetes-sigs/etcdadm](https://github.com/kubernetes-sigs/etcdadm) (2 weeks ago)
 - [pwnesia/ssb](https://github.com/pwnesia/ssb) - Secure Shell Bruteforcer — A faster &amp; simpler way to bruteforce SSH server (3 weeks ago)
 
