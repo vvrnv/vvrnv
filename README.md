@@ -30,7 +30,7 @@
 
 
 - [spf13/afero](https://github.com/spf13/afero) - A FileSystem Abstraction System for Go (1 week ago)
-- [AllenDang/giu](https://github.com/AllenDang/giu) - Cross platform rapid GUI framework for golang based on Dear ImGui. (2 weeks ago)
+- [AllenDang/giu](https://github.com/AllenDang/giu) - Cross platform rapid GUI framework for golang based on Dear ImGui. (3 weeks ago)
 - [DataDog/KubeHound](https://github.com/DataDog/KubeHound) - Kubernetes Attack Graph (3 weeks ago)
 - [kubernetes-sigs/etcdadm](https://github.com/kubernetes-sigs/etcdadm) (3 weeks ago)
 - [pwnesia/ssb](https://github.com/pwnesia/ssb) - Secure Shell Bruteforcer — A faster &amp; simpler way to bruteforce SSH server (1 month ago)
@@ -40,7 +40,7 @@
 
 - [Hugo coder strava icon](https://github.com/vvrnv/vvrnv.github.io/pull/1) on [vvrnv/vvrnv.github.io](https://github.com/vvrnv/vvrnv.github.io) (7 months ago)
 - [Fix bug report template](https://github.com/ONLYOFFICE/DocumentServer/pull/2120) on [ONLYOFFICE/DocumentServer](https://github.com/ONLYOFFICE/DocumentServer) (8 months ago)
-- [fix: added NodeNetworkUnavailable alerts, rm unused OOD alert](https://github.com/samber/awesome-prometheus-alerts/pull/318) on [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) (11 months ago)
+- [fix: added NodeNetworkUnavailable alerts, rm unused OOD alert](https://github.com/samber/awesome-prometheus-alerts/pull/318) on [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) (1 year ago)
 
 ### GitHub stats 📈
 
