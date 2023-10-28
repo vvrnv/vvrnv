@@ -32,7 +32,7 @@
 - [spf13/afero](https://github.com/spf13/afero) - A FileSystem Abstraction System for Go (1 week ago)
 - [AllenDang/giu](https://github.com/AllenDang/giu) - Cross platform rapid GUI framework for golang based on Dear ImGui. (3 weeks ago)
 - [DataDog/KubeHound](https://github.com/DataDog/KubeHound) - Kubernetes Attack Graph (3 weeks ago)
-- [kubernetes-sigs/etcdadm](https://github.com/kubernetes-sigs/etcdadm) (3 weeks ago)
+- [kubernetes-sigs/etcdadm](https://github.com/kubernetes-sigs/etcdadm) (4 weeks ago)
 - [pwnesia/ssb](https://github.com/pwnesia/ssb) - Secure Shell Bruteforcer — A faster &amp; simpler way to bruteforce SSH server (1 month ago)
 
 ### Recent pull requests 🔨
