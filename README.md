@@ -29,11 +29,11 @@
 ### Recent stars ⭐
 
 
+- [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible (today)
 - [spf13/afero](https://github.com/spf13/afero) - A FileSystem Abstraction System for Go (4 weeks ago)
 - [AllenDang/giu](https://github.com/AllenDang/giu) - Cross platform rapid GUI framework for golang based on Dear ImGui. (1 month ago)
 - [DataDog/KubeHound](https://github.com/DataDog/KubeHound) - Kubernetes Attack Graph (1 month ago)
 - [kubernetes-sigs/etcdadm](https://github.com/kubernetes-sigs/etcdadm) (1 month ago)
-- [pwnesia/ssb](https://github.com/pwnesia/ssb) - Secure Shell Bruteforcer — A faster &amp; simpler way to bruteforce SSH server (1 month ago)
 
 ### Recent pull requests 🔨
 
