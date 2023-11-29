@@ -29,11 +29,11 @@
 ### Recent stars ⭐
 
 
+- [marcotuna/win-dns-api-go](https://github.com/marcotuna/win-dns-api-go) - Windows DNS API in Golang (today)
 - [dreddsa5dies/goHackTools](https://github.com/dreddsa5dies/goHackTools) - Hacker tools on Go (Golang) (1 day ago)
 - [kudobuilder/kuttl](https://github.com/kudobuilder/kuttl) - KUbernetes Test TooL (kuttl) (1 day ago)
 - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations (2 weeks ago)
 - [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible (2 weeks ago)
-- [spf13/afero](https://github.com/spf13/afero) - A FileSystem Abstraction System for Go (1 month ago)
 
 ### Recent pull requests 🔨
 
