@@ -29,7 +29,7 @@
 ### Recent stars ⭐
 
 
-- [alibaba/kubeskoop](https://github.com/alibaba/kubeskoop) (today)
+- [alibaba/kubeskoop](https://github.com/alibaba/kubeskoop) (1 day ago)
 - [helm/chart-releaser](https://github.com/helm/chart-releaser) - Hosting Helm Charts via GitHub Pages and Releases (1 week ago)
 - [marcotuna/win-dns-api-go](https://github.com/marcotuna/win-dns-api-go) - Windows DNS API in Golang (1 week ago)
 - [dreddsa5dies/goHackTools](https://github.com/dreddsa5dies/goHackTools) - Hacker tools on Go (Golang) (1 week ago)
