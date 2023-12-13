@@ -29,10 +29,10 @@
 ### Recent stars ⭐
 
 
-- [annetutil/gnetcli](https://github.com/annetutil/gnetcli) - The ultimate solution for CLI automation in Golang (1 day ago)
-- [alibaba/kubeskoop](https://github.com/alibaba/kubeskoop) (2 days ago)
+- [annetutil/gnetcli](https://github.com/annetutil/gnetcli) - The ultimate solution for CLI automation in Golang (2 days ago)
+- [alibaba/kubeskoop](https://github.com/alibaba/kubeskoop) (3 days ago)
 - [helm/chart-releaser](https://github.com/helm/chart-releaser) - Hosting Helm Charts via GitHub Pages and Releases (1 week ago)
-- [marcotuna/win-dns-api-go](https://github.com/marcotuna/win-dns-api-go) - Windows DNS API in Golang (1 week ago)
+- [marcotuna/win-dns-api-go](https://github.com/marcotuna/win-dns-api-go) - Windows DNS API in Golang (2 weeks ago)
 - [dreddsa5dies/goHackTools](https://github.com/dreddsa5dies/goHackTools) - Hacker tools on Go (Golang) (2 weeks ago)
 
 ### Recent pull requests 🔨
