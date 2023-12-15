@@ -29,11 +29,11 @@
 ### Recent stars ⭐
 
 
-- [runoncloud/kubectl-np-viewer](https://github.com/runoncloud/kubectl-np-viewer) - A kubectl plugin to visualize network policies rules. (1 day ago)
-- [annetutil/gnetcli](https://github.com/annetutil/gnetcli) - The ultimate solution for CLI automation in Golang (3 days ago)
-- [alibaba/kubeskoop](https://github.com/alibaba/kubeskoop) (4 days ago)
-- [helm/chart-releaser](https://github.com/helm/chart-releaser) - Hosting Helm Charts via GitHub Pages and Releases (1 week ago)
-- [marcotuna/win-dns-api-go](https://github.com/marcotuna/win-dns-api-go) - Windows DNS API in Golang (2 weeks ago)
+- [yonahd/kor](https://github.com/yonahd/kor) - A Golang Tool to discover unused Kubernetes Resources  (1 day ago)
+- [runoncloud/kubectl-np-viewer](https://github.com/runoncloud/kubectl-np-viewer) - A kubectl plugin to visualize network policies rules. (2 days ago)
+- [annetutil/gnetcli](https://github.com/annetutil/gnetcli) - The ultimate solution for CLI automation in Golang (4 days ago)
+- [alibaba/kubeskoop](https://github.com/alibaba/kubeskoop) (5 days ago)
+- [helm/chart-releaser](https://github.com/helm/chart-releaser) - Hosting Helm Charts via GitHub Pages and Releases (2 weeks ago)
 
 ### Recent pull requests 🔨
 
