@@ -29,11 +29,11 @@
 ### Recent stars ⭐
 
 
-- [firecow/gitlab-ci-local](https://github.com/firecow/gitlab-ci-local) - Tired of pushing to test your .gitlab-ci.yml? (1 day ago)
-- [yonahd/kor](https://github.com/yonahd/kor) - A Golang Tool to discover unused Kubernetes Resources  (2 days ago)
-- [runoncloud/kubectl-np-viewer](https://github.com/runoncloud/kubectl-np-viewer) - A kubectl plugin to visualize network policies rules. (3 days ago)
-- [annetutil/gnetcli](https://github.com/annetutil/gnetcli) - The ultimate solution for CLI automation in Golang (5 days ago)
-- [alibaba/kubeskoop](https://github.com/alibaba/kubeskoop) (6 days ago)
+- [firecow/gitlab-ci-local](https://github.com/firecow/gitlab-ci-local) - Tired of pushing to test your .gitlab-ci.yml? (2 days ago)
+- [yonahd/kor](https://github.com/yonahd/kor) - A Golang Tool to discover unused Kubernetes Resources  (3 days ago)
+- [runoncloud/kubectl-np-viewer](https://github.com/runoncloud/kubectl-np-viewer) - A kubectl plugin to visualize network policies rules. (4 days ago)
+- [annetutil/gnetcli](https://github.com/annetutil/gnetcli) - The ultimate solution for CLI automation in Golang (6 days ago)
+- [alibaba/kubeskoop](https://github.com/alibaba/kubeskoop) (1 week ago)
 
 ### Recent pull requests 🔨
 
