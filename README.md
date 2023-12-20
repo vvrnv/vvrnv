@@ -29,11 +29,11 @@
 ### Recent stars ⭐
 
 
+- [kubernetes-sigs/kube-scheduler-simulator](https://github.com/kubernetes-sigs/kube-scheduler-simulator) - The simulator for the Kubernetes scheduler (today)
 - [francoismichel/ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 (3 days ago)
 - [firecow/gitlab-ci-local](https://github.com/firecow/gitlab-ci-local) - Tired of pushing to test your .gitlab-ci.yml? (5 days ago)
 - [yonahd/kor](https://github.com/yonahd/kor) - A Golang Tool to discover unused Kubernetes Resources  (6 days ago)
 - [runoncloud/kubectl-np-viewer](https://github.com/runoncloud/kubectl-np-viewer) - A kubectl plugin to visualize network policies rules. (1 week ago)
-- [annetutil/gnetcli](https://github.com/annetutil/gnetcli) - The ultimate solution for CLI automation in Golang (1 week ago)
 
 ### Recent pull requests 🔨
 
