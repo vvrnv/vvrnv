@@ -29,8 +29,8 @@
 ### Recent stars ⭐
 
 
-- [kubernetes-sigs/kubebuilder-declarative-pattern](https://github.com/kubernetes-sigs/kubebuilder-declarative-pattern) - A toolkit for building declarative operators with kubebuilder (today)
-- [marvasgit/kubernetes-statemonitor](https://github.com/marvasgit/kubernetes-statemonitor) - KubeStateWatch is a Statemonitor for k8s used  to send notification with when and what exactly was changed to multiple channels (2 days ago)
+- [kubernetes-sigs/kubebuilder-declarative-pattern](https://github.com/kubernetes-sigs/kubebuilder-declarative-pattern) - A toolkit for building declarative operators with kubebuilder (1 day ago)
+- [marvasgit/kubernetes-statemonitor](https://github.com/marvasgit/kubernetes-statemonitor) - KubeStateWatch is a Statemonitor for k8s used  to send notification with when and what exactly was changed to multiple channels (3 days ago)
 - [keephq/keep](https://github.com/keephq/keep) - The open-source alerts management and automation platform (1 week ago)
 - [max-rocket-internet/k8s-event-logger](https://github.com/max-rocket-internet/k8s-event-logger) - Watches k8s cluster events and logs them to stdout in JSON (1 week ago)
 - [kubernetes-sigs/kube-scheduler-simulator](https://github.com/kubernetes-sigs/kube-scheduler-simulator) - The simulator for the Kubernetes scheduler (1 week ago)
