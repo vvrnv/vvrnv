@@ -29,10 +29,10 @@
 ### Recent stars ⭐
 
 
-- [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask) - PostgreSQL dump and obfuscation tool (today)
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub (6 days ago)
-- [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery) (6 days ago)
-- [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) - Logging operator for Kubernetes (6 days ago)
+- [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask) - PostgreSQL dump and obfuscation tool (1 day ago)
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub (1 week ago)
+- [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery) (1 week ago)
+- [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) - Logging operator for Kubernetes (1 week ago)
 - [K-Phoen/dark](https://github.com/K-Phoen/dark) - (grafana) Dashboards As Resources in Kubernetes (1 week ago)
 
 ### Recent pull requests 🔨
