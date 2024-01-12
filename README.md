@@ -29,11 +29,11 @@
 ### Recent stars ⭐
 
 
+- [doug-martin/goqu](https://github.com/doug-martin/goqu) - SQL builder and query library for golang (today)
 - [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new (3 days ago)
 - [robherley/snips.sh](https://github.com/robherley/snips.sh) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI (3 days ago)
 - [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask) - PostgreSQL dump and obfuscation tool (4 days ago)
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub (1 week ago)
-- [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery) (1 week ago)
 
 ### Recent pull requests 🔨
 
