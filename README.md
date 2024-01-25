@@ -11,7 +11,7 @@
 ### Recent contributions 👷
 
 
-- [vvrnv/kube-ns-cleaner](https://github.com/vvrnv/kube-ns-cleaner) - kube-ns-cleaner is a kubernetes client application for deleting unused kubernetes namespaces and scaling their resources (3 days ago)
+- [vvrnv/kube-ns-cleaner](https://github.com/vvrnv/kube-ns-cleaner) - kube-ns-cleaner is a kubernetes client application for deleting unused kubernetes namespaces and scaling their resources (4 days ago)
 - [vvrnv/gossl](https://github.com/vvrnv/gossl) - Simple CLI app for checking SSL certificates written in Go (1 week ago)
 - [vvrnv/vvrnv.github.io](https://github.com/vvrnv/vvrnv.github.io) - :octocat: github pages blog (3 weeks ago)
 - [vvrnv/ingpoint](https://github.com/vvrnv/ingpoint) - This script lists all unique ingress host endpoints (2 months ago)
@@ -29,16 +29,16 @@
 ### Recent stars ⭐
 
 
-- [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools (6 days ago)
+- [backube/volsync](https://github.com/backube/volsync) - Asynchronous data replication for Kubernetes volumes (1 day ago)
+- [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools (1 week ago)
 - [provectus/kafka-ui](https://github.com/provectus/kafka-ui) - Open-Source Web UI for Apache Kafka Management (1 week ago)
 - [doug-martin/goqu](https://github.com/doug-martin/goqu) - SQL builder and query library for golang (1 week ago)
 - [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new (2 weeks ago)
-- [robherley/snips.sh](https://github.com/robherley/snips.sh) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI (2 weeks ago)
 
 ### Recent pull requests 🔨
 
 
-- [feat: rewritten to go](https://github.com/vvrnv/kube-ns-cleaner/pull/1) on [vvrnv/kube-ns-cleaner](https://github.com/vvrnv/kube-ns-cleaner) (1 week ago)
+- [feat: rewritten to go](https://github.com/vvrnv/kube-ns-cleaner/pull/1) on [vvrnv/kube-ns-cleaner](https://github.com/vvrnv/kube-ns-cleaner) (2 weeks ago)
 - [Hugo coder strava icon](https://github.com/vvrnv/vvrnv.github.io/pull/1) on [vvrnv/vvrnv.github.io](https://github.com/vvrnv/vvrnv.github.io) (10 months ago)
 - [Fix bug report template](https://github.com/ONLYOFFICE/DocumentServer/pull/2120) on [ONLYOFFICE/DocumentServer](https://github.com/ONLYOFFICE/DocumentServer) (11 months ago)
 - [fix: added NodeNetworkUnavailable alerts, rm unused OOD alert](https://github.com/samber/awesome-prometheus-alerts/pull/318) on [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) (1 year ago)
