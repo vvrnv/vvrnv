@@ -11,7 +11,7 @@
 ### Recent contributions 👷
 
 
-- [vvrnv/kube-ns-cleaner](https://github.com/vvrnv/kube-ns-cleaner) - kube-ns-cleaner is a kubernetes client application for deleting unused kubernetes namespaces and scaling their resources (4 days ago)
+- [vvrnv/kube-ns-cleaner](https://github.com/vvrnv/kube-ns-cleaner) - kube-ns-cleaner is a kubernetes client application for deleting unused kubernetes namespaces and scaling their resources (5 days ago)
 - [vvrnv/gossl](https://github.com/vvrnv/gossl) - Simple CLI app for checking SSL certificates written in Go (1 week ago)
 - [vvrnv/vvrnv.github.io](https://github.com/vvrnv/vvrnv.github.io) - :octocat: github pages blog (3 weeks ago)
 - [vvrnv/ingpoint](https://github.com/vvrnv/ingpoint) - This script lists all unique ingress host endpoints (2 months ago)
@@ -29,11 +29,11 @@
 ### Recent stars ⭐
 
 
-- [vbauerster/mpb](https://github.com/vbauerster/mpb) - multi progress bar for Go cli applications (today)
-- [backube/volsync](https://github.com/backube/volsync) - Asynchronous data replication for Kubernetes volumes (1 day ago)
+- [vbauerster/mpb](https://github.com/vbauerster/mpb) - multi progress bar for Go cli applications (1 day ago)
+- [backube/volsync](https://github.com/backube/volsync) - Asynchronous data replication for Kubernetes volumes (2 days ago)
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools (1 week ago)
 - [provectus/kafka-ui](https://github.com/provectus/kafka-ui) - Open-Source Web UI for Apache Kafka Management (1 week ago)
-- [doug-martin/goqu](https://github.com/doug-martin/goqu) - SQL builder and query library for golang (1 week ago)
+- [doug-martin/goqu](https://github.com/doug-martin/goqu) - SQL builder and query library for golang (2 weeks ago)
 
 ### Recent pull requests 🔨
 
