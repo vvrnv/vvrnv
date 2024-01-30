@@ -29,9 +29,9 @@
 ### Recent stars ⭐
 
 
-- [mittwald/brudi](https://github.com/mittwald/brudi) - Easy, incremental and encrypted backup creation / restoration for different backends (file, mongoDB, mysql, postgres, etc.) (today)
-- [vbauerster/mpb](https://github.com/vbauerster/mpb) - multi progress bar for Go cli applications (4 days ago)
-- [backube/volsync](https://github.com/backube/volsync) - Asynchronous data replication for Kubernetes volumes (5 days ago)
+- [mittwald/brudi](https://github.com/mittwald/brudi) - Easy, incremental and encrypted backup creation / restoration for different backends (file, mongoDB, mysql, postgres, etc.) (1 day ago)
+- [vbauerster/mpb](https://github.com/vbauerster/mpb) - multi progress bar for Go cli applications (5 days ago)
+- [backube/volsync](https://github.com/backube/volsync) - Asynchronous data replication for Kubernetes volumes (6 days ago)
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools (1 week ago)
 - [provectus/kafka-ui](https://github.com/provectus/kafka-ui) - Open-Source Web UI for Apache Kafka Management (2 weeks ago)
 
