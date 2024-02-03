@@ -29,8 +29,8 @@
 ### Recent stars ⭐
 
 
-- [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes (3 days ago)
-- [mittwald/brudi](https://github.com/mittwald/brudi) - Easy, incremental and encrypted backup creation / restoration for different backends (file, mongoDB, mysql, postgres, etc.) (4 days ago)
+- [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes (4 days ago)
+- [mittwald/brudi](https://github.com/mittwald/brudi) - Easy, incremental and encrypted backup creation / restoration for different backends (file, mongoDB, mysql, postgres, etc.) (5 days ago)
 - [vbauerster/mpb](https://github.com/vbauerster/mpb) - multi progress bar for Go cli applications (1 week ago)
 - [backube/volsync](https://github.com/backube/volsync) - Asynchronous data replication for Kubernetes volumes (1 week ago)
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools (2 weeks ago)
