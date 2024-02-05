@@ -12,7 +12,7 @@
 
 
 - [vvrnv/kube-ns-cleaner](https://github.com/vvrnv/kube-ns-cleaner) - kube-ns-cleaner is a kubernetes client application for deleting unused kubernetes namespaces and scaling their resources (2 weeks ago)
-- [vvrnv/gossl](https://github.com/vvrnv/gossl) - Simple CLI app for checking SSL certificates written in Go (2 weeks ago)
+- [vvrnv/gossl](https://github.com/vvrnv/gossl) - Simple CLI app for checking SSL certificates written in Go (3 weeks ago)
 - [vvrnv/vvrnv.github.io](https://github.com/vvrnv/vvrnv.github.io) - :octocat: github pages blog (1 month ago)
 - [vvrnv/ingpoint](https://github.com/vvrnv/ingpoint) - This script lists all unique ingress host endpoints (3 months ago)
 - [vvrnv/homebrew-tap](https://github.com/vvrnv/homebrew-tap) - homebrew tap repo for my projects (10 months ago)
@@ -29,8 +29,8 @@
 ### Recent stars ⭐
 
 
-- [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes (5 days ago)
-- [mittwald/brudi](https://github.com/mittwald/brudi) - Easy, incremental and encrypted backup creation / restoration for different backends (file, mongoDB, mysql, postgres, etc.) (6 days ago)
+- [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes (6 days ago)
+- [mittwald/brudi](https://github.com/mittwald/brudi) - Easy, incremental and encrypted backup creation / restoration for different backends (file, mongoDB, mysql, postgres, etc.) (1 week ago)
 - [vbauerster/mpb](https://github.com/vbauerster/mpb) - multi progress bar for Go cli applications (1 week ago)
 - [backube/volsync](https://github.com/backube/volsync) - Asynchronous data replication for Kubernetes volumes (1 week ago)
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools (2 weeks ago)
