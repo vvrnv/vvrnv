@@ -11,8 +11,8 @@
 ### Recent contributions 👷
 
 
-- [vvrnv/ingpoint](https://github.com/vvrnv/ingpoint) - app to get all unique ingress hosts for current kubernetes context (5 days ago)
-- [vvrnv/kube-ns-cleaner](https://github.com/vvrnv/kube-ns-cleaner) - kube-ns-cleaner is a kubernetes client application for deleting unused kubernetes namespaces and scaling their resources (5 days ago)
+- [vvrnv/ingpoint](https://github.com/vvrnv/ingpoint) - app to get all unique ingress hosts for current kubernetes context (6 days ago)
+- [vvrnv/kube-ns-cleaner](https://github.com/vvrnv/kube-ns-cleaner) - kube-ns-cleaner is a kubernetes client application for deleting unused kubernetes namespaces and scaling their resources (6 days ago)
 - [vvrnv/homebrew-tap](https://github.com/vvrnv/homebrew-tap) - homebrew tap repo for my projects (1 week ago)
 - [vvrnv/gossl](https://github.com/vvrnv/gossl) - Simple CLI app for checking SSL certificates written in Go (1 month ago)
 - [vvrnv/vvrnv.github.io](https://github.com/vvrnv/vvrnv.github.io) - :octocat: github pages blog (1 month ago)
@@ -29,10 +29,10 @@
 ### Recent stars ⭐
 
 
-- [kisielk/errcheck](https://github.com/kisielk/errcheck) - errcheck checks that you checked errors. (3 days ago)
-- [helm/chart-testing](https://github.com/helm/chart-testing) - CLI tool for linting and testing Helm charts (4 days ago)
-- [otterize/network-mapper](https://github.com/otterize/network-mapper) - Map Kubernetes in-cluster traffic and export as text, intents, or an image (5 days ago)
-- [kir4h/rvault](https://github.com/kir4h/rvault) - Small tool to perform some recursive operations on Hashicorp&#39;s Vault KV (6 days ago)
+- [kisielk/errcheck](https://github.com/kisielk/errcheck) - errcheck checks that you checked errors. (4 days ago)
+- [helm/chart-testing](https://github.com/helm/chart-testing) - CLI tool for linting and testing Helm charts (5 days ago)
+- [otterize/network-mapper](https://github.com/otterize/network-mapper) - Map Kubernetes in-cluster traffic and export as text, intents, or an image (6 days ago)
+- [kir4h/rvault](https://github.com/kir4h/rvault) - Small tool to perform some recursive operations on Hashicorp&#39;s Vault KV (1 week ago)
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (1 week ago)
 
 ### Recent pull requests 🔨
