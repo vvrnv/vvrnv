@@ -11,9 +11,9 @@
 ### Recent contributions 👷
 
 
-- [vvrnv/kube-ns-cleaner](https://github.com/vvrnv/kube-ns-cleaner) - kube-ns-cleaner is a kubernetes client application for deleting unused kubernetes namespaces and scaling their resources (6 days ago)
-- [vvrnv/gossl](https://github.com/vvrnv/gossl) - Simple CLI app for checking SSL certificates written in Go (1 week ago)
-- [vvrnv/homebrew-tap](https://github.com/vvrnv/homebrew-tap) - homebrew tap repo for my projects (1 week ago)
+- [vvrnv/kube-ns-cleaner](https://github.com/vvrnv/kube-ns-cleaner) - kube-ns-cleaner is a kubernetes client application for deleting unused kubernetes namespaces and scaling their resources (1 week ago)
+- [vvrnv/gossl](https://github.com/vvrnv/gossl) - Simple CLI app for checking SSL certificates written in Go (2 weeks ago)
+- [vvrnv/homebrew-tap](https://github.com/vvrnv/homebrew-tap) - homebrew tap repo for my projects (2 weeks ago)
 - [vvrnv/ingpoint](https://github.com/vvrnv/ingpoint) - app to get all unique ingress hosts for current kubernetes context (2 weeks ago)
 - [vvrnv/vvrnv.github.io](https://github.com/vvrnv/vvrnv.github.io) - :octocat: github pages blog (2 months ago)
 
@@ -29,11 +29,11 @@
 ### Recent stars ⭐
 
 
-- [Melkeydev/go-blueprint](https://github.com/Melkeydev/go-blueprint) - Go-blueprint allows users to spin up a quick Go project using a popular framework (3 days ago)
-- [MaksimDzhangirov/complete-gRPC](https://github.com/MaksimDzhangirov/complete-gRPC) - In this course, we are going to learn about gRPC and how to use it with protocol buffer (4 days ago)
-- [kevwan/tproxy](https://github.com/kevwan/tproxy) - A cli tool to proxy and analyze TCP connections. (1 week ago)
-- [liweiyi88/onedump](https://github.com/liweiyi88/onedump) - Database dump with one command and configuration. (1 week ago)
-- [go-resty/resty](https://github.com/go-resty/resty) - Simple HTTP and REST client library for Go (1 week ago)
+- [Melkeydev/go-blueprint](https://github.com/Melkeydev/go-blueprint) - Go-blueprint allows users to spin up a quick Go project using a popular framework (4 days ago)
+- [MaksimDzhangirov/complete-gRPC](https://github.com/MaksimDzhangirov/complete-gRPC) - In this course, we are going to learn about gRPC and how to use it with protocol buffer (5 days ago)
+- [kevwan/tproxy](https://github.com/kevwan/tproxy) - A cli tool to proxy and analyze TCP connections. (2 weeks ago)
+- [liweiyi88/onedump](https://github.com/liweiyi88/onedump) - Database dump with one command and configuration. (2 weeks ago)
+- [go-resty/resty](https://github.com/go-resty/resty) - Simple HTTP and REST client library for Go (2 weeks ago)
 
 ### Recent pull requests 🔨
 
