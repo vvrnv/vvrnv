@@ -29,7 +29,7 @@
 ### Recent stars ⭐
 
 
-- [Melkeydev/go-blueprint](https://github.com/Melkeydev/go-blueprint) - Go-blueprint allows users to spin up a quick Go project using a popular framework (6 days ago)
+- [Melkeydev/go-blueprint](https://github.com/Melkeydev/go-blueprint) - Go-blueprint allows users to spin up a quick Go project using a popular framework (1 week ago)
 - [MaksimDzhangirov/complete-gRPC](https://github.com/MaksimDzhangirov/complete-gRPC) - In this course, we are going to learn about gRPC and how to use it with protocol buffer (1 week ago)
 - [kevwan/tproxy](https://github.com/kevwan/tproxy) - A cli tool to proxy and analyze TCP connections. (2 weeks ago)
 - [liweiyi88/onedump](https://github.com/liweiyi88/onedump) - Database dump with one command and configuration. (2 weeks ago)
