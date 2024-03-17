@@ -29,7 +29,7 @@
 ### Recent stars ⭐
 
 
-- [risor-io/risor](https://github.com/risor-io/risor) - Fast and flexible scripting for Go developers and DevOps. (5 days ago)
+- [risor-io/risor](https://github.com/risor-io/risor) - Fast and flexible scripting for Go developers and DevOps. (6 days ago)
 - [Melkeydev/go-blueprint](https://github.com/Melkeydev/go-blueprint) - Go-blueprint allows users to spin up a quick Go project using a popular framework (2 weeks ago)
 - [MaksimDzhangirov/complete-gRPC](https://github.com/MaksimDzhangirov/complete-gRPC) - In this course, we are going to learn about gRPC and how to use it with protocol buffer (2 weeks ago)
 - [kevwan/tproxy](https://github.com/kevwan/tproxy) - A cli tool to proxy and analyze TCP connections. (3 weeks ago)
