@@ -30,7 +30,7 @@
 
 
 - [allaboutapps/integresql](https://github.com/allaboutapps/integresql) - IntegreSQL manages isolated PostgreSQL databases for your integration tests. (1 week ago)
-- [failsafe-go/failsafe-go](https://github.com/failsafe-go/failsafe-go) - Fault tolerance and resilience patterns for Go (1 week ago)
+- [failsafe-go/failsafe-go](https://github.com/failsafe-go/failsafe-go) - Fault tolerance and resilience patterns for Go (2 weeks ago)
 - [risor-io/risor](https://github.com/risor-io/risor) - Fast and flexible scripting for Go developers and DevOps. (3 weeks ago)
 - [Melkeydev/go-blueprint](https://github.com/Melkeydev/go-blueprint) - Go-blueprint allows users to spin up a quick Go project using a popular framework (1 month ago)
 - [MaksimDzhangirov/complete-gRPC](https://github.com/MaksimDzhangirov/complete-gRPC) - In this course, we are going to learn about gRPC and how to use it with protocol buffer (1 month ago)
