@@ -32,14 +32,14 @@
 - [git-learning-game/oh-my-git](https://github.com/git-learning-game/oh-my-git) - An interactive Git learning game! (3 weeks ago)
 - [allaboutapps/integresql](https://github.com/allaboutapps/integresql) - IntegreSQL manages isolated PostgreSQL databases for your integration tests. (1 month ago)
 - [failsafe-go/failsafe-go](https://github.com/failsafe-go/failsafe-go) - Fault tolerance and resilience patterns for Go (1 month ago)
-- [risor-io/risor](https://github.com/risor-io/risor) - Fast and flexible scripting for Go developers and DevOps. (1 month ago)
+- [risor-io/risor](https://github.com/risor-io/risor) - Fast and flexible scripting for Go developers and DevOps. (2 months ago)
 - [Melkeydev/go-blueprint](https://github.com/Melkeydev/go-blueprint) - Go-blueprint allows users to spin up a quick Go project using a popular framework (2 months ago)
 
 ### Recent pull requests 🔨
 
 
 - [feat: rewrite app to clean kubernetes api code](https://github.com/vvrnv/ingpoint/pull/7) on [vvrnv/ingpoint](https://github.com/vvrnv/ingpoint) (2 months ago)
-- [feat: rewritten to go](https://github.com/vvrnv/kube-ns-cleaner/pull/1) on [vvrnv/kube-ns-cleaner](https://github.com/vvrnv/kube-ns-cleaner) (3 months ago)
+- [feat: rewritten to go](https://github.com/vvrnv/kube-ns-cleaner/pull/1) on [vvrnv/kube-ns-cleaner](https://github.com/vvrnv/kube-ns-cleaner) (4 months ago)
 - [Hugo coder strava icon](https://github.com/vvrnv/vvrnv.github.io/pull/1) on [vvrnv/vvrnv.github.io](https://github.com/vvrnv/vvrnv.github.io) (1 year ago)
 - [Fix bug report template](https://github.com/ONLYOFFICE/DocumentServer/pull/2120) on [ONLYOFFICE/DocumentServer](https://github.com/ONLYOFFICE/DocumentServer) (1 year ago)
 
