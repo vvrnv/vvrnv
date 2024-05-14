@@ -29,10 +29,10 @@
 ### Recent stars ⭐
 
 
-- [hexdigest/gowrap](https://github.com/hexdigest/gowrap) - GoWrap is a command line tool for generating decorators for Go interfaces (today)
-- [ankorstore/yokai](https://github.com/ankorstore/yokai) - Simple, modular, and observable Go framework for backend applications. (3 days ago)
-- [rusinikita/trainer](https://github.com/rusinikita/trainer) - GoLang interview prep questions. Terminal app with Go challenges and learning links (3 days ago)
-- [git-learning-game/oh-my-git](https://github.com/git-learning-game/oh-my-git) - An interactive Git learning game! (4 weeks ago)
+- [hexdigest/gowrap](https://github.com/hexdigest/gowrap) - GoWrap is a command line tool for generating decorators for Go interfaces (1 day ago)
+- [ankorstore/yokai](https://github.com/ankorstore/yokai) - Simple, modular, and observable Go framework for backend applications. (4 days ago)
+- [rusinikita/trainer](https://github.com/rusinikita/trainer) - GoLang interview prep questions. Terminal app with Go challenges and learning links (4 days ago)
+- [git-learning-game/oh-my-git](https://github.com/git-learning-game/oh-my-git) - An interactive Git learning game! (1 month ago)
 - [allaboutapps/integresql](https://github.com/allaboutapps/integresql) - IntegreSQL manages isolated PostgreSQL databases for your integration tests. (1 month ago)
 
 ### Recent pull requests 🔨
