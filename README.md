@@ -29,11 +29,11 @@
 ### Recent stars ⭐
 
 
+- [gofr-dev/gofr](https://github.com/gofr-dev/gofr) - An opinionated Go framework for accelerated microservice development (today)
 - [hexdigest/gowrap](https://github.com/hexdigest/gowrap) - GoWrap is a command line tool for generating decorators for Go interfaces (1 week ago)
 - [ankorstore/yokai](https://github.com/ankorstore/yokai) - Simple, modular, and observable Go framework for backend applications. (1 week ago)
 - [rusinikita/trainer](https://github.com/rusinikita/trainer) - GoLang interview prep questions. Terminal app with Go challenges and learning links (1 week ago)
 - [git-learning-game/oh-my-git](https://github.com/git-learning-game/oh-my-git) - An interactive Git learning game! (1 month ago)
-- [allaboutapps/integresql](https://github.com/allaboutapps/integresql) - IntegreSQL manages isolated PostgreSQL databases for your integration tests. (1 month ago)
 
 ### Recent pull requests 🔨
 
