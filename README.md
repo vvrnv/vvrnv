@@ -29,11 +29,11 @@
 ### Recent stars ⭐
 
 
+- [Evertras/go-interface-examples](https://github.com/Evertras/go-interface-examples) (today)
 - [gofr-dev/gofr](https://github.com/gofr-dev/gofr) - An opinionated Go framework for accelerated microservice development (2 weeks ago)
 - [hexdigest/gowrap](https://github.com/hexdigest/gowrap) - GoWrap is a command line tool for generating decorators for Go interfaces (4 weeks ago)
 - [ankorstore/yokai](https://github.com/ankorstore/yokai) - Simple, modular, and observable Go framework for backend applications. (1 month ago)
 - [rusinikita/trainer](https://github.com/rusinikita/trainer) - GoLang interview prep questions. Terminal app with Go challenges and learning links (1 month ago)
-- [git-learning-game/oh-my-git](https://github.com/git-learning-game/oh-my-git) - An interactive Git learning game! (1 month ago)
 
 ### Recent pull requests 🔨
 
