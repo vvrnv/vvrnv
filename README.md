@@ -29,11 +29,11 @@
 ### Recent stars ⭐
 
 
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source &amp; self-hostable Heroku / Netlify / Vercel alternative. (today)
 - [nil-go/konf](https://github.com/nil-go/konf) - The simplest config loader for Go that reads/watches from file, env, flag and clouds (AWS, Azure, GCP).  (1 week ago)
 - [Evertras/go-interface-examples](https://github.com/Evertras/go-interface-examples) (2 weeks ago)
 - [gofr-dev/gofr](https://github.com/gofr-dev/gofr) - An opinionated Go framework for accelerated microservice development (1 month ago)
 - [hexdigest/gowrap](https://github.com/hexdigest/gowrap) - GoWrap is a command line tool for generating decorators for Go interfaces (1 month ago)
-- [ankorstore/yokai](https://github.com/ankorstore/yokai) - Simple, modular, and observable Go framework for backend applications. (1 month ago)
 
 ### Recent pull requests 🔨
 
