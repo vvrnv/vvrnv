@@ -29,7 +29,7 @@
 ### Recent stars ⭐
 
 
-- [AccentDesign/gcss](https://github.com/AccentDesign/gcss) - CSS written in Pure Go (1 day ago)
+- [AccentDesign/gcss](https://github.com/AccentDesign/gcss) - CSS written in Pure Go (2 days ago)
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source &amp; self-hostable Heroku / Netlify / Vercel alternative. (1 week ago)
 - [nil-go/konf](https://github.com/nil-go/konf) - The simplest config loader for Go that reads/watches from file, env, flag and clouds (AWS, Azure, GCP).  (2 weeks ago)
 - [Evertras/go-interface-examples](https://github.com/Evertras/go-interface-examples) (3 weeks ago)
