@@ -14,7 +14,7 @@
 - [vvrnv/gossl](https://github.com/vvrnv/gossl) - Simple CLI app for checking SSL certificates written in Go (2 weeks ago)
 - [vvrnv/kube-ns-cleaner](https://github.com/vvrnv/kube-ns-cleaner) - kube-ns-cleaner is a kubernetes client application for deleting unused kubernetes namespaces and scaling their resources (3 weeks ago)
 - [vvrnv/ingpoint](https://github.com/vvrnv/ingpoint) - app to get all unique ingress hosts for current kubernetes context (3 weeks ago)
-- [vvrnv/vvrnv.github.io](https://github.com/vvrnv/vvrnv.github.io) - :octocat: github pages blog (4 weeks ago)
+- [vvrnv/vvrnv.github.io](https://github.com/vvrnv/vvrnv.github.io) - :octocat: github pages blog (1 month ago)
 - [vvrnv/homebrew-tap](https://github.com/vvrnv/homebrew-tap) - homebrew tap repo for my projects (4 months ago)
 
 ### Recent projects 💩
@@ -29,9 +29,9 @@
 ### Recent stars ⭐
 
 
-- [ahmetb/kubectl-foreach](https://github.com/ahmetb/kubectl-foreach) - Run kubectl commands in all/some contexts in parallel (similar to GNU xargs&#43;parallel) (1 day ago)
-- [omrikiei/ktunnel](https://github.com/omrikiei/ktunnel) - A cli that exposes your local resources to kubernetes (1 day ago)
-- [AccentDesign/gcss](https://github.com/AccentDesign/gcss) - CSS written in Pure Go (4 days ago)
+- [ahmetb/kubectl-foreach](https://github.com/ahmetb/kubectl-foreach) - Run kubectl commands in all/some contexts in parallel (similar to GNU xargs&#43;parallel) (2 days ago)
+- [omrikiei/ktunnel](https://github.com/omrikiei/ktunnel) - A cli that exposes your local resources to kubernetes (2 days ago)
+- [AccentDesign/gcss](https://github.com/AccentDesign/gcss) - CSS written in Pure Go (5 days ago)
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source &amp; self-hostable Heroku / Netlify / Vercel alternative. (1 week ago)
 - [nil-go/konf](https://github.com/nil-go/konf) - The simplest config loader for Go that reads/watches from file, env, flag and clouds (AWS, Azure, GCP).  (2 weeks ago)
 
