@@ -29,11 +29,11 @@
 ### Recent stars ⭐
 
 
+- [progrium/darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go. Previously known as MacDriver (today)
 - [ahmetb/kubectl-foreach](https://github.com/ahmetb/kubectl-foreach) - Run kubectl commands in all/some contexts in parallel (similar to GNU xargs&#43;parallel) (3 weeks ago)
 - [omrikiei/ktunnel](https://github.com/omrikiei/ktunnel) - A cli that exposes your local resources to kubernetes (3 weeks ago)
 - [AccentDesign/gcss](https://github.com/AccentDesign/gcss) - CSS written in Pure Go (4 weeks ago)
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source &amp; self-hostable Heroku / Netlify / Vercel alternative. (1 month ago)
-- [nil-go/konf](https://github.com/nil-go/konf) - The simplest config loader for Go that reads/watches from file, env, flag and clouds (AWS, Azure, GCP).  (1 month ago)
 
 ### Recent pull requests 🔨
 
