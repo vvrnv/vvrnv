@@ -11,7 +11,7 @@
 ### Recent contributions 👷
 
 
-- [vvrnv/kube-ns-cleaner](https://github.com/vvrnv/kube-ns-cleaner) - kube-ns-cleaner is a kubernetes client application for deleting unused kubernetes namespaces and scaling their resources (today)
+- [vvrnv/kube-ns-cleaner](https://github.com/vvrnv/kube-ns-cleaner) - kube-ns-cleaner is a kubernetes client application for deleting unused kubernetes namespaces and scaling their resources (1 day ago)
 - [vvrnv/ingpoint](https://github.com/vvrnv/ingpoint) - app to get all unique ingress hosts for current kubernetes context (1 week ago)
 - [vvrnv/gossl](https://github.com/vvrnv/gossl) - Simple CLI app for checking SSL certificates written in Go (2 months ago)
 - [vvrnv/vvrnv.github.io](https://github.com/vvrnv/vvrnv.github.io) - :octocat: github pages blog (3 months ago)
@@ -30,7 +30,7 @@
 
 
 - [nixys/nxs-backup](https://github.com/nixys/nxs-backup) - The tool for creating, delivering and rotating backups for GNU/Linux distributions. (1 week ago)
-- [xendit/kompare](https://github.com/xendit/kompare) - Kompare is a CLI tool to compare two kubernetes cluster and their resources. (1 week ago)
+- [xendit/kompare](https://github.com/xendit/kompare) - Kompare is a CLI tool to compare two kubernetes cluster and their resources. (2 weeks ago)
 - [progrium/darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go. Previously known as MacDriver (1 month ago)
 - [ahmetb/kubectl-foreach](https://github.com/ahmetb/kubectl-foreach) - Run kubectl commands in all/some contexts in parallel (similar to GNU xargs&#43;parallel) (2 months ago)
 - [omrikiei/ktunnel](https://github.com/omrikiei/ktunnel) - A cli that exposes your local resources to kubernetes (2 months ago)
@@ -39,7 +39,7 @@
 
 
 - [feat: rewrite app to clean kubernetes api code](https://github.com/vvrnv/ingpoint/pull/7) on [vvrnv/ingpoint](https://github.com/vvrnv/ingpoint) (6 months ago)
-- [feat: rewritten to go](https://github.com/vvrnv/kube-ns-cleaner/pull/1) on [vvrnv/kube-ns-cleaner](https://github.com/vvrnv/kube-ns-cleaner) (7 months ago)
+- [feat: rewritten to go](https://github.com/vvrnv/kube-ns-cleaner/pull/1) on [vvrnv/kube-ns-cleaner](https://github.com/vvrnv/kube-ns-cleaner) (8 months ago)
 - [Hugo coder strava icon](https://github.com/vvrnv/vvrnv.github.io/pull/1) on [vvrnv/vvrnv.github.io](https://github.com/vvrnv/vvrnv.github.io) (2 years ago)
 - [Fix bug report template](https://github.com/ONLYOFFICE/DocumentServer/pull/2120) on [ONLYOFFICE/DocumentServer](https://github.com/ONLYOFFICE/DocumentServer) (2 years ago)
 
