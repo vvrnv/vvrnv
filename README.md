@@ -11,9 +11,9 @@
 ### Recent contributions 👷
 
 
-- [vvrnv/kctxsync](https://github.com/vvrnv/kctxsync) - kctxsync is a command-line tool to sync certificate and key data from a remote Kubernetes cluster&#39;s kubeconfig to your local kubeconfig. (3 days ago)
-- [vvrnv/homebrew-tap](https://github.com/vvrnv/homebrew-tap) - homebrew tap repo for my projects (3 days ago)
-- [vvrnv/kube-ns-cleaner](https://github.com/vvrnv/kube-ns-cleaner) - kube-ns-cleaner is a kubernetes client application for deleting unused kubernetes namespaces and scaling their resources (5 days ago)
+- [vvrnv/kctxsync](https://github.com/vvrnv/kctxsync) - kctxsync is a command-line tool to sync certificate and key data from a remote Kubernetes cluster&#39;s kubeconfig to your local kubeconfig. (4 days ago)
+- [vvrnv/homebrew-tap](https://github.com/vvrnv/homebrew-tap) - homebrew tap repo for my projects (4 days ago)
+- [vvrnv/kube-ns-cleaner](https://github.com/vvrnv/kube-ns-cleaner) - kube-ns-cleaner is a kubernetes client application for deleting unused kubernetes namespaces and scaling their resources (6 days ago)
 - [vvrnv/ingpoint](https://github.com/vvrnv/ingpoint) - app to get all unique ingress hosts for current kubernetes context (1 week ago)
 - [vvrnv/gossl](https://github.com/vvrnv/gossl) - Simple CLI app for checking SSL certificates written in Go (3 months ago)
 
