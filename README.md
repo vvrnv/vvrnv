@@ -29,8 +29,8 @@
 ### Recent stars ⭐
 
 
-- [maddalax/htmgo](https://github.com/maddalax/htmgo) - htmgo - build simple and scalable systems with go &#43; htmx (today)
-- [nicolaka/netshoot](https://github.com/nicolaka/netshoot) - a Docker &#43; Kubernetes network trouble-shooting swiss-army container (3 days ago)
+- [maddalax/htmgo](https://github.com/maddalax/htmgo) - htmgo - build simple and scalable systems with go &#43; htmx (1 day ago)
+- [nicolaka/netshoot](https://github.com/nicolaka/netshoot) - a Docker &#43; Kubernetes network trouble-shooting swiss-army container (4 days ago)
 - [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) - Kubebuilder - SDK for building Kubernetes APIs using CRDs (3 weeks ago)
 - [nixys/nxs-backup](https://github.com/nixys/nxs-backup) - The tool for creating, delivering and rotating backups for GNU/Linux distributions. (1 month ago)
 - [xendit/kompare](https://github.com/xendit/kompare) - Kompare is a CLI tool to compare two kubernetes cluster and their resources. (1 month ago)
