@@ -29,7 +29,7 @@
 ### Recent stars ⭐
 
 
-- [kedacore/keda](https://github.com/kedacore/keda) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes  (1 week ago)
+- [kedacore/keda](https://github.com/kedacore/keda) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes  (2 weeks ago)
 - [Stengo/DeskPad](https://github.com/Stengo/DeskPad) - A virtual monitor for screen sharing (3 weeks ago)
 - [maddalax/htmgo](https://github.com/maddalax/htmgo) - htmgo - build simple and scalable systems with go &#43; htmx (1 month ago)
 - [nicolaka/netshoot](https://github.com/nicolaka/netshoot) - a Docker &#43; Kubernetes network trouble-shooting swiss-army container (1 month ago)
@@ -38,7 +38,7 @@
 ### Recent pull requests 🔨
 
 
-- [feat: rewrite app to clean kubernetes api code](https://github.com/vvrnv/ingpoint/pull/7) on [vvrnv/ingpoint](https://github.com/vvrnv/ingpoint) (8 months ago)
+- [feat: rewrite app to clean kubernetes api code](https://github.com/vvrnv/ingpoint/pull/7) on [vvrnv/ingpoint](https://github.com/vvrnv/ingpoint) (9 months ago)
 - [feat: rewritten to go](https://github.com/vvrnv/kube-ns-cleaner/pull/1) on [vvrnv/kube-ns-cleaner](https://github.com/vvrnv/kube-ns-cleaner) (10 months ago)
 - [Hugo coder strava icon](https://github.com/vvrnv/vvrnv.github.io/pull/1) on [vvrnv/vvrnv.github.io](https://github.com/vvrnv/vvrnv.github.io) (2 years ago)
 - [Fix bug report template](https://github.com/ONLYOFFICE/DocumentServer/pull/2120) on [ONLYOFFICE/DocumentServer](https://github.com/ONLYOFFICE/DocumentServer) (2 years ago)
