@@ -29,8 +29,8 @@
 ### Recent stars ⭐
 
 
-- [vmware-tanzu/sonobuoy](https://github.com/vmware-tanzu/sonobuoy) - Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of Kubernetes conformance tests and other plugins in an accessible and non-destructive manner. (3 days ago)
-- [edmocosta/tuistash](https://github.com/edmocosta/tuistash) - A terminal user interface for Logstash 🪵 (6 days ago)
+- [vmware-tanzu/sonobuoy](https://github.com/vmware-tanzu/sonobuoy) - Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of Kubernetes conformance tests and other plugins in an accessible and non-destructive manner. (4 days ago)
+- [edmocosta/tuistash](https://github.com/edmocosta/tuistash) - A terminal user interface for Logstash 🪵 (1 week ago)
 - [vmware-tanzu/pinniped](https://github.com/vmware-tanzu/pinniped) - Pinniped is the easy, secure way to log in to your Kubernetes clusters. (1 month ago)
 - [kedacore/keda](https://github.com/kedacore/keda) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes  (2 months ago)
 - [Stengo/DeskPad](https://github.com/Stengo/DeskPad) - A virtual monitor for screen sharing (2 months ago)
