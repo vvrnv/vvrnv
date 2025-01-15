@@ -11,7 +11,7 @@
 ### Recent contributions 👷
 
 
-- [vvrnv/vvrnv.github.io](https://github.com/vvrnv/vvrnv.github.io) - :octocat: github pages blog (1 week ago)
+- [vvrnv/vvrnv.github.io](https://github.com/vvrnv/vvrnv.github.io) - :octocat: github pages blog (2 weeks ago)
 - [vvrnv/kube-ns-cleaner](https://github.com/vvrnv/kube-ns-cleaner) - kube-ns-cleaner is a kubernetes client application for deleting unused kubernetes namespaces and scaling their resources (1 month ago)
 - [vvrnv/ingpoint](https://github.com/vvrnv/ingpoint) - app to get all unique ingress hosts for current kubernetes context (1 month ago)
 - [vvrnv/gossl](https://github.com/vvrnv/gossl) - Simple CLI app for checking SSL certificates written in Go (2 months ago)
@@ -29,9 +29,9 @@
 ### Recent stars ⭐
 
 
-- [grafana/grizzly](https://github.com/grafana/grizzly) - A utility for managing Jsonnet dashboards against the Grafana API (2 days ago)
+- [grafana/grizzly](https://github.com/grafana/grizzly) - A utility for managing Jsonnet dashboards against the Grafana API (3 days ago)
 - [vmware-tanzu/sonobuoy](https://github.com/vmware-tanzu/sonobuoy) - Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of Kubernetes conformance tests and other plugins in an accessible and non-destructive manner. (2 weeks ago)
-- [edmocosta/tuistash](https://github.com/edmocosta/tuistash) - A terminal user interface for Logstash 🪵 (2 weeks ago)
+- [edmocosta/tuistash](https://github.com/edmocosta/tuistash) - A terminal user interface for Logstash 🪵 (3 weeks ago)
 - [vmware-tanzu/pinniped](https://github.com/vmware-tanzu/pinniped) - Pinniped is the easy, secure way to log in to your Kubernetes clusters. (2 months ago)
 - [kedacore/keda](https://github.com/kedacore/keda) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes  (2 months ago)
 
