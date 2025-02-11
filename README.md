@@ -29,11 +29,11 @@
 ### Recent stars ⭐
 
 
-- [Macmod/godap](https://github.com/Macmod/godap) - A complete terminal user interface (TUI) for LDAP. (1 day ago)
-- [monasticacademy/httptap](https://github.com/monasticacademy/httptap) - View HTTP/HTTPS requests made by any Linux program (6 days ago)
+- [Macmod/godap](https://github.com/Macmod/godap) - A complete terminal user interface (TUI) for LDAP. (2 days ago)
+- [monasticacademy/httptap](https://github.com/monasticacademy/httptap) - View HTTP/HTTPS requests made by any Linux program (1 week ago)
 - [zubkov-andrei/pg_profile](https://github.com/zubkov-andrei/pg_profile) - Postgres historic workload reports (1 week ago)
 - [GoogleCloudPlatform/khi](https://github.com/GoogleCloudPlatform/khi) - A transformative log viewer for Kubernetes (1 week ago)
-- [grafana/grizzly](https://github.com/grafana/grizzly) - A utility for managing Jsonnet dashboards against the Grafana API (4 weeks ago)
+- [grafana/grizzly](https://github.com/grafana/grizzly) - A utility for managing Jsonnet dashboards against the Grafana API (1 month ago)
 
 ### Recent pull requests 🔨
 
