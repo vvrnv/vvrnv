@@ -11,9 +11,9 @@
 ### Recent contributions 👷
 
 
+- [vvrnv/kube-ns-cleaner](https://github.com/vvrnv/kube-ns-cleaner) - kube-ns-cleaner is a kubernetes client application for deleting unused kubernetes namespaces and scaling their resources (today)
+- [vvrnv/ingpoint](https://github.com/vvrnv/ingpoint) - app to get all unique ingress hosts for current kubernetes context (today)
 - [vvrnv/vvrnv.github.io](https://github.com/vvrnv/vvrnv.github.io) - :octocat: github pages blog (1 month ago)
-- [vvrnv/kube-ns-cleaner](https://github.com/vvrnv/kube-ns-cleaner) - kube-ns-cleaner is a kubernetes client application for deleting unused kubernetes namespaces and scaling their resources (2 months ago)
-- [vvrnv/ingpoint](https://github.com/vvrnv/ingpoint) - app to get all unique ingress hosts for current kubernetes context (2 months ago)
 - [vvrnv/gossl](https://github.com/vvrnv/gossl) - Simple CLI app for checking SSL certificates written in Go (3 months ago)
 - [vvrnv/kctxsync](https://github.com/vvrnv/kctxsync) - kctxsync is a command-line tool to sync certificate and key data from a remote Kubernetes cluster&#39;s kubeconfig to your local kubeconfig. (4 months ago)
 
@@ -29,11 +29,11 @@
 ### Recent stars ⭐
 
 
+- [JustSkiv/goschedviz](https://github.com/JustSkiv/goschedviz) - 📊 Terminal-based Go scheduler visualization tool with real-time metrics, charts and insights (today)
 - [Macmod/godap](https://github.com/Macmod/godap) - A complete terminal user interface (TUI) for LDAP. (5 days ago)
 - [monasticacademy/httptap](https://github.com/monasticacademy/httptap) - View HTTP/HTTPS requests made by any Linux program (1 week ago)
 - [zubkov-andrei/pg_profile](https://github.com/zubkov-andrei/pg_profile) - Postgres historic workload reports (2 weeks ago)
 - [GoogleCloudPlatform/khi](https://github.com/GoogleCloudPlatform/khi) - A transformative log viewer for Kubernetes (2 weeks ago)
-- [grafana/grizzly](https://github.com/grafana/grizzly) - A utility for managing Jsonnet dashboards against the Grafana API (1 month ago)
 
 ### Recent pull requests 🔨
 
