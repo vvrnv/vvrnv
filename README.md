@@ -11,8 +11,8 @@
 ### Recent contributions 👷
 
 
-- [vvrnv/vvrnv.github.io](https://github.com/vvrnv/vvrnv.github.io) - :octocat: github pages blog (4 days ago)
-- [vvrnv/kube-ns-cleaner](https://github.com/vvrnv/kube-ns-cleaner) - kube-ns-cleaner is a kubernetes client application for deleting unused kubernetes namespaces and scaling their resources (5 days ago)
+- [vvrnv/vvrnv.github.io](https://github.com/vvrnv/vvrnv.github.io) - :octocat: github pages blog (5 days ago)
+- [vvrnv/kube-ns-cleaner](https://github.com/vvrnv/kube-ns-cleaner) - kube-ns-cleaner is a kubernetes client application for deleting unused kubernetes namespaces and scaling their resources (6 days ago)
 - [vvrnv/gossl](https://github.com/vvrnv/gossl) - Simple CLI app for checking SSL certificates written in Go (1 week ago)
 - [vvrnv/ingpoint](https://github.com/vvrnv/ingpoint) - app to get all unique ingress hosts for current kubernetes context (1 week ago)
 - [vvrnv/kctxsync](https://github.com/vvrnv/kctxsync) - kctxsync is a command-line tool to sync certificate and key data from a remote Kubernetes cluster&#39;s kubeconfig to your local kubeconfig. (5 months ago)
@@ -29,7 +29,7 @@
 ### Recent stars ⭐
 
 
-- [gianlucam76/kubernetes-controller-tutorial](https://github.com/gianlucam76/kubernetes-controller-tutorial) - This repository provides an opinionated tutorial on building Kubernetes controllers, sharing best practices and design patterns I have found most effective (3 days ago)
+- [gianlucam76/kubernetes-controller-tutorial](https://github.com/gianlucam76/kubernetes-controller-tutorial) - This repository provides an opinionated tutorial on building Kubernetes controllers, sharing best practices and design patterns I have found most effective (4 days ago)
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (1 week ago)
 - [rootsongjc/awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native) - A curated list for awesome cloud native tools, software and tutorials.  - https://jimmysong.io/awesome-cloud-native/ (1 week ago)
 - [castai/egressd](https://github.com/castai/egressd) - Kubernetes aware network traffic monitoring (1 week ago)
