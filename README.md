@@ -29,11 +29,11 @@
 ### Recent stars ⭐
 
 
+- [postgresml/pgcat](https://github.com/postgresml/pgcat) - PostgreSQL pooler with sharding, load balancing and failover support. (today)
 - [gianlucam76/kubernetes-controller-tutorial](https://github.com/gianlucam76/kubernetes-controller-tutorial) - This repository provides an opinionated tutorial on building Kubernetes controllers, sharing best practices and design patterns I have found most effective (4 days ago)
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (1 week ago)
 - [rootsongjc/awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native) - A curated list for awesome cloud native tools, software and tutorials.  - https://jimmysong.io/awesome-cloud-native/ (1 week ago)
 - [castai/egressd](https://github.com/castai/egressd) - Kubernetes aware network traffic monitoring (1 week ago)
-- [JustSkiv/goschedviz](https://github.com/JustSkiv/goschedviz) - 📊 Terminal-based Go scheduler visualization tool with real-time metrics, charts and insights (1 week ago)
 
 ### Recent pull requests 🔨
 
