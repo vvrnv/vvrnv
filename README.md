@@ -29,11 +29,11 @@
 ### Recent stars ⭐
 
 
+- [dstotijn/hetty](https://github.com/dstotijn/hetty) - An HTTP toolkit for security research. (today)
 - [goplus/gop](https://github.com/goplus/gop) - The Go&#43; programming language is designed for engineering, STEM education, and data science. Our vision is to enable everyone to become a builder of the digital world. (1 week ago)
 - [postgresml/pgcat](https://github.com/postgresml/pgcat) - PostgreSQL pooler with sharding, load balancing and failover support. (2 weeks ago)
 - [gianlucam76/kubernetes-controller-tutorial](https://github.com/gianlucam76/kubernetes-controller-tutorial) - This repository provides an opinionated tutorial on building Kubernetes controllers, sharing best practices and design patterns I have found most effective (2 weeks ago)
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (3 weeks ago)
-- [rootsongjc/awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native) - A curated list for awesome cloud native tools, software and tutorials.  - https://jimmysong.io/awesome-cloud-native/ (3 weeks ago)
 
 ### Recent pull requests 🔨
 
