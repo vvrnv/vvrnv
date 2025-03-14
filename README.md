@@ -14,7 +14,7 @@
 - [vvrnv/kube-ns-cleaner](https://github.com/vvrnv/kube-ns-cleaner) - kube-ns-cleaner is a kubernetes client application for deleting unused kubernetes namespaces and scaling their resources (1 week ago)
 - [vvrnv/kctxsync](https://github.com/vvrnv/kctxsync) - kctxsync is a command-line tool to sync certificate and key data from a remote Kubernetes cluster&#39;s kubeconfig to your local kubeconfig. (2 weeks ago)
 - [vvrnv/homebrew-tap](https://github.com/vvrnv/homebrew-tap) - homebrew tap repo for my projects (2 weeks ago)
-- [vvrnv/vvrnv.github.io](https://github.com/vvrnv/vvrnv.github.io) - :octocat: github pages blog (2 weeks ago)
+- [vvrnv/vvrnv.github.io](https://github.com/vvrnv/vvrnv.github.io) - :octocat: github pages blog (3 weeks ago)
 - [vvrnv/gossl](https://github.com/vvrnv/gossl) - Simple CLI app for checking SSL certificates written in Go (3 weeks ago)
 
 ### Recent projects 💩
@@ -29,7 +29,7 @@
 ### Recent stars ⭐
 
 
-- [dstotijn/hetty](https://github.com/dstotijn/hetty) - An HTTP toolkit for security research. (today)
+- [dstotijn/hetty](https://github.com/dstotijn/hetty) - An HTTP toolkit for security research. (1 day ago)
 - [goplus/gop](https://github.com/goplus/gop) - The Go&#43; programming language is designed for engineering, STEM education, and data science. Our vision is to enable everyone to become a builder of the digital world. (1 week ago)
 - [postgresml/pgcat](https://github.com/postgresml/pgcat) - PostgreSQL pooler with sharding, load balancing and failover support. (2 weeks ago)
 - [gianlucam76/kubernetes-controller-tutorial](https://github.com/gianlucam76/kubernetes-controller-tutorial) - This repository provides an opinionated tutorial on building Kubernetes controllers, sharing best practices and design patterns I have found most effective (2 weeks ago)
