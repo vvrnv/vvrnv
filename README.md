@@ -29,10 +29,10 @@
 ### Recent stars ⭐
 
 
-- [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog) - Horizontal scaling for PostgreSQL with automatic sharding. (4 days ago)
+- [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog) - Horizontal scaling for PostgreSQL with automatic sharding. (5 days ago)
 - [dstotijn/hetty](https://github.com/dstotijn/hetty) - An HTTP toolkit for security research. (1 week ago)
 - [goplus/gop](https://github.com/goplus/gop) - The Go&#43; programming language is designed for engineering, STEM education, and data science. Our vision is to enable everyone to become a builder of the digital world. (3 weeks ago)
-- [postgresml/pgcat](https://github.com/postgresml/pgcat) - PostgreSQL pooler with sharding, load balancing and failover support. (3 weeks ago)
+- [postgresml/pgcat](https://github.com/postgresml/pgcat) - PostgreSQL pooler with sharding, load balancing and failover support. (4 weeks ago)
 - [gianlucam76/kubernetes-controller-tutorial](https://github.com/gianlucam76/kubernetes-controller-tutorial) - This repository provides an opinionated tutorial on building Kubernetes controllers, sharing best practices and design patterns I have found most effective (1 month ago)
 
 ### Recent pull requests 🔨
