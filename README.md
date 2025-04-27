@@ -29,11 +29,11 @@
 ### Recent stars ⭐
 
 
+- [mgechev/revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint (1 day ago)
 - [deckhouse/prompp](https://github.com/deckhouse/prompp) - Deckhouse Prom&#43;&#43; – high-performance fork of Prometheus, designed to significantly reduce memory consumption (1 month ago)
 - [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog) - Horizontal scaling for PostgreSQL with automatic sharding. (1 month ago)
 - [dstotijn/hetty](https://github.com/dstotijn/hetty) - An HTTP toolkit for security research. (1 month ago)
 - [goplus/gop](https://github.com/goplus/gop) - The Go&#43; programming language is designed for engineering, STEM education, and data science. Our vision is to enable everyone to become a builder of the world. (1 month ago)
-- [postgresml/pgcat](https://github.com/postgresml/pgcat) - PostgreSQL pooler with sharding, load balancing and failover support. (1 month ago)
 
 ### Recent pull requests 🔨
 
