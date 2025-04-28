@@ -13,9 +13,9 @@
 
 - [vvrnv/ingpoint](https://github.com/vvrnv/ingpoint) - app to get all unique ingress hosts for current kubernetes context (1 week ago)
 - [vvrnv/homebrew-tap](https://github.com/vvrnv/homebrew-tap) - homebrew tap repo for my projects (1 week ago)
-- [vvrnv/vvrnv.github.io](https://github.com/vvrnv/vvrnv.github.io) - :octocat: github pages blog (2 weeks ago)
+- [vvrnv/vvrnv.github.io](https://github.com/vvrnv/vvrnv.github.io) - :octocat: github pages blog (3 weeks ago)
 - [vvrnv/kube-ns-cleaner](https://github.com/vvrnv/kube-ns-cleaner) - kube-ns-cleaner is a kubernetes client application for deleting unused kubernetes namespaces and scaling their resources (1 month ago)
-- [vvrnv/kctxsync](https://github.com/vvrnv/kctxsync) - kctxsync is a command-line tool to sync certificate and key data from a remote Kubernetes cluster&#39;s kubeconfig to your local kubeconfig. (1 month ago)
+- [vvrnv/kctxsync](https://github.com/vvrnv/kctxsync) - kctxsync is a command-line tool to sync certificate and key data from a remote Kubernetes cluster&#39;s kubeconfig to your local kubeconfig. (2 months ago)
 
 ### Recent projects 💩
 
@@ -29,7 +29,7 @@
 ### Recent stars ⭐
 
 
-- [mgechev/revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint (1 day ago)
+- [mgechev/revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint (2 days ago)
 - [deckhouse/prompp](https://github.com/deckhouse/prompp) - Deckhouse Prom&#43;&#43; – high-performance fork of Prometheus, designed to significantly reduce memory consumption (1 month ago)
 - [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog) - Horizontal scaling for PostgreSQL with automatic sharding. (1 month ago)
 - [dstotijn/hetty](https://github.com/dstotijn/hetty) - An HTTP toolkit for security research. (1 month ago)
