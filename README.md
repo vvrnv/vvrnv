@@ -29,11 +29,11 @@
 ### Recent stars ⭐
 
 
+- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It&#39;s written in Swift, and optimized for Apple silicon.  (today)
 - [mgechev/revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint (1 month ago)
 - [deckhouse/prompp](https://github.com/deckhouse/prompp) - Deckhouse Prom&#43;&#43; – high-performance fork of Prometheus, designed to significantly reduce memory consumption (2 months ago)
 - [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog) - Horizontal scaling for PostgreSQL with automatic sharding. (2 months ago)
 - [dstotijn/hetty](https://github.com/dstotijn/hetty) - An HTTP toolkit for security research. (3 months ago)
-- [goplus/xgo](https://github.com/goplus/xgo) - XGo is the first AI-native programming language that integrates software engineering into a unified whole. Our vision is to enable everyone to become a builder of the world. (3 months ago)
 
 ### Recent pull requests 🔨
 
