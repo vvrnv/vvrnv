@@ -33,7 +33,7 @@
 - [mgechev/revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint (2 months ago)
 - [deckhouse/prompp](https://github.com/deckhouse/prompp) - Deckhouse Prom&#43;&#43; – high-performance fork of Prometheus, designed to significantly reduce memory consumption (3 months ago)
 - [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog) - Horizontal scaling for PostgreSQL with automatic sharding. (3 months ago)
-- [dstotijn/hetty](https://github.com/dstotijn/hetty) - An HTTP toolkit for security research. (3 months ago)
+- [dstotijn/hetty](https://github.com/dstotijn/hetty) - An HTTP toolkit for security research. (4 months ago)
 
 ### Recent pull requests 🔨
 
