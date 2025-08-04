@@ -38,7 +38,7 @@
 ### Recent pull requests 🔨
 
 
-- [feat: rewrite app to clean kubernetes api code](https://github.com/vvrnv/ingpoint/pull/7) on [vvrnv/ingpoint](https://github.com/vvrnv/ingpoint) (1 year ago)
+- [feat: rewrite app to clean kubernetes api code](https://github.com/vvrnv/ingpoint/pull/7) on [vvrnv/ingpoint](https://github.com/vvrnv/ingpoint) (2 years ago)
 - [feat: rewritten to go](https://github.com/vvrnv/kube-ns-cleaner/pull/1) on [vvrnv/kube-ns-cleaner](https://github.com/vvrnv/kube-ns-cleaner) (2 years ago)
 - [Hugo coder strava icon](https://github.com/vvrnv/vvrnv.github.io/pull/1) on [vvrnv/vvrnv.github.io](https://github.com/vvrnv/vvrnv.github.io) (2 years ago)
 - [Fix bug report template](https://github.com/ONLYOFFICE/DocumentServer/pull/2120) on [ONLYOFFICE/DocumentServer](https://github.com/ONLYOFFICE/DocumentServer) (2 years ago)
