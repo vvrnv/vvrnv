@@ -32,7 +32,7 @@
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  (4 months ago)
 - [mgechev/revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint (5 months ago)
 - [deckhouse/prompp](https://github.com/deckhouse/prompp) - Deckhouse Prom&#43;&#43; – high-performance fork of Prometheus, designed to significantly reduce memory consumption (6 months ago)
-- [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog) - Horizontal scaling for PostgreSQL with automatic sharding. (6 months ago)
+- [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog) - Horizontal scaling for PostgreSQL with automatic sharding. (7 months ago)
 - [dstotijn/hetty](https://github.com/dstotijn/hetty) - An HTTP toolkit for security research. (7 months ago)
 
 ### Recent pull requests 🔨
